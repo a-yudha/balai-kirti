@@ -1,0 +1,627 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #124D58;
+    /*font-family: 'Roboto', sans-serif;*/
+    font-family: 'Open Sans',sans-serif;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+header{
+    top: 0;
+    z-index: 999;
+    font-size: .9em;
+}
+.ext-link-top{
+    background-color: #F17800;
+    position: fixed;
+    z-index: 99;
+    right: 0;
+    top: 0;
+    text-align: right;
+    display: inline-block;
+    padding: 0 5px;
+    padding-left: 10px;
+    line-height: 30px;
+    margin-top: 8px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    font-size: .85em;
+}
+nav{
+    background-color: #000000;
+    height: 58px;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+}
+nav li{
+    list-style: none;
+    display: inline-block;
+}
+nav li a{
+    display: block;
+    line-height: 55px;
+    padding: 0 10px;
+    margin-left: 5px;
+    margin-bottom: 1px;
+    font-weight: 500;
+    border-bottom: 2px solid transparent;
+}
+nav li a:hover,
+nav li a.selected{
+    border-bottom: 2px solid #ffffff;
+}
+nav li.ext-link a{
+    background-color: #F17800;
+    padding: 0 17px;
+    border-bottom: 3px solid #F17800;
+    margin-bottom: 0px;
+}
+
+main{
+    background-color: #ffffff;
+}
+.welcome-text{
+    background-color: #0E869B;
+    line-height: 47px;
+    height: 47px;
+    font-weight: 500;
+    position: relative;
+    display: block;
+    color: #ffffff;
+}
+.welcome-text span{
+    margin-left: 100px;
+    font-size: 1.5rem;
+    font-weight: 100;
+    float: right;
+}
+.logo-home{
+    position: absolute;
+    right: 110px;
+    top: 8px;
+}
+.logo-home img{
+    height: 28px;
+}
+.slide-left-layout{
+    position: relative;
+}
+.slide-left-layout .logo-historia{
+    position: absolute;
+    top: 3px;
+    left: 235px;
+}
+.slide-left-layout .logo-museum{
+    position: absolute;
+    top: 1px;
+    left: 195px;
+}
+.slide-left-layout .logo-kemendikbud{
+    position: absolute;
+    top: 3px;
+    left: 115px;
+}
+.slide-left-layout .logo{
+    position: absolute;
+    top: 3px;
+    left: 155px;
+}
+.slide-left-layout .logo-historia img,
+.slide-left-layout .logo-museum img,
+.slide-left-layout .logo-kemendikbud img,
+.slide-left-layout .logo img{
+    height: 40px;
+}
+.slide-left-layout{
+    width: 150px;
+    padding: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+}
+.slide-left-layout::after{
+    content: "";
+    background-color: #ffffff;
+    width: 180px;
+    height: 180px;
+    border-radius: 150px;
+    display: block;
+    position: absolute;
+    z-index: -1;
+    top: -50px;
+    left: -65px;
+}
+.slide-header-text-small{
+    font-size: .6em;
+    font-weight: 400;
+    line-height: 1.2em;
+    padding-left: 3px;
+    color: #0E869B;
+    width: 90px;
+}
+.slide-header-text-large{
+    font-size: 1.7em;
+    font-weight: 500;
+    line-height: 1em;
+    letter-spacing: 2px;
+    color: #0E869B;
+}
+.img-container{
+    overflow: hidden;
+    position: relative;
+}
+.cover-header{
+    position: absolute;
+    background-color: #ffffff;
+    color: #0E869B;
+    width: 300px;
+    height: 300px;
+    padding-top: 80px;
+    padding-left: 70px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border-radius: 150px;
+    left: -55px;
+    top: -60px;
+}
+.cover-header .cover-header-text-large{
+    font-size: 3.8em;
+    font-weight: 200;
+    line-height: 1em;
+}
+.cover-header .cover-header-text-small{
+    font-size: .9em;
+    font-weight: 400;
+    line-height: 1.2em;
+    padding-left: 3px;
+}
+.aboutus-container{
+    position: relative;
+}
+.m-top-20{
+    margin-top: 20px;
+}
+ol{
+    margin-left: 20px;
+}
+ol li{
+    margin-bottom: 10px;
+}
+.aboutus-info-detail h3{
+    color:  #F17800;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+.aboutus-info-detail p{
+    font-size: 1.1rem;
+    line-height: 1.4em;
+}
+.aboutus-info-content li{
+    font-size: 1.1em;
+    line-height: 1.4em;
+}
+.aboutus-info-content h2{
+    margin: 20px 0;
+    margin-bottom: 40px;
+}
+.aboutus-info-content h2.bottom{
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+.aboutus-info-icon{
+    position: relative;
+}
+.icon-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F17800;
+}
+.home-icon{
+    position: absolute;
+    right: 105px;
+    top: 7px;
+}
+.home-icon img{
+    height: 30px;
+}
+
+ul.logo-container li{
+    list-style: none;
+    display: inline;
+}
+.e-mail:before {
+    content: attr(data-website) "\0040" attr(data-user);
+    unicode-bidi: bidi-override;
+    direction: rtl;
+}
+.link-email{
+    color: #124D58;
+    text-decoration: underline;
+    display: inline;
+    text-decoration-thickness: 2px;
+    text-underline-position: under;
+    word-wrap: break-word;
+}
+footer a.icon-socmed{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-radius: 3px;
+    background-color: #eeeeee;
+    color: #515349;
+    overflow: hidden;
+    position: relative;
+    margin-right: 5px;
+}
+footer a.icon-socmed.facebook svg{
+    top: 4px;
+    left: 0;
+}
+footer{
+    text-align: center;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px;
+}
+footer a.icon-socmed-link{
+    margin-right: 10px;
+    margin-left: 5px;
+}
+a.icon-socmed svg{
+    position: absolute;
+}
+a.icon-socmed.twitter svg{
+    left: 2px;
+    top: 3px;
+}
+a.icon-socmed.instagram svg{
+    top: 3px;
+    left: 2px;
+}
+a.icon-socmed.youtube svg{
+    top: 3px;
+    left: 2px;
+}
+@media(max-width: 480px){
+    header{
+        position: relative;
+    }
+    .only-desktop, nav .only-desktop{
+        display: none;
+    }
+    .only-mobile{
+        display: inline-block;
+    }
+    
+    main{
+        padding-top: 0;
+    }
+    .cover{
+        height: 100vw;
+    }
+}
+@media(min-width: 480px){
+    header{
+        position: fixed;
+    }
+    .only-desktop{
+        display: inline-block;
+    }
+    .list-container.only-desktop{
+        display: block;
+    }
+    nav.only-desktop{
+        display: block;
+    }
+    .only-mobile{
+        display: none;
+    }
+    main{
+        padding-top: 47px;
+    }
+    .cover{
+        height: 440px;
+    }
+}
+@media(max-width: 768px){
+    .bg-black{
+        background-color: #ffffff;
+    }
+    a.icon-socmed{
+        margin: 17px 2px;
+        margin-right: 5px;
+    }
+    main{
+        width: auto;
+    }
+    .aboutus-info{
+        display: block;
+        color: #ffffff;
+        background-color: #124D58;
+        position: static;
+        margin: 0;
+        padding: 60px 0;
+
+    }
+    .aboutus-info-item{
+        width: 100%;
+        text-align: right;
+        display: flex;
+        flex-direction: row-reverse;
+    }
+    .aboutus-info-content{
+        width: calc(100% - 60px);
+        margin: 0 30px;
+        padding-bottom: 30px;
+    }
+    .aboutus-info-icon{
+        width: 70px;
+        flex-shrink: 0;
+    }
+    .border-bottom{
+        display: block;
+        border-bottom: 1px solid #0E869B;
+        padding-top:20px;
+        margin-bottom: 20px;
+        width: 200px;
+    }
+    .aboutus-info-detail{
+        padding-left: 30px;
+    }
+    .aboutus-info-content h2{
+        font-size: 1.3em;
+    }
+    .icon-container{
+        position: static;
+        width: 40px;
+        height: 40px;
+        overflow: hidden;
+        border-radius: 20px;
+        top: -90px;
+        left: 50%;
+        margin-left: 10px;
+    }
+    .icon-container img{
+        width: 25px;
+        height: auto;
+    }
+    .cover{
+        background-color: #124D58;
+        overflow: hidden;
+        position: relative;
+        width: 100vw;
+        height: 120vw;
+        border-bottom: 5px solid #0E869B;
+    }
+    .round-container{
+        position: absolute;
+        top: 0;
+        width: 1000px;
+        height: 1000px;
+        border-radius: 500px;
+        overflow: hidden;
+        left: 50%;
+        margin-left: -500px;
+        display: flex;
+        justify-content: center;
+    }
+    .img-container{
+        width: 100vw;
+        min-height: 0;
+    }
+    .img-container img{
+        width: 100%;
+    }
+    .logo-container{
+        position: absolute;
+        top: 0px;
+        left: 20px;
+    }
+    .logo-container .logo{
+        margin-left: 0;
+    }
+    .logo-container .logo img,
+    .logo img{
+        height: 50px;
+    }
+    footer{
+        background-color: #eeeeee;
+        color: #222222;
+    }
+    footer a.icon-socmed-link{
+        color: #222222;
+    }
+    a.icon-socmed svg{
+        fill: #222222;
+    }
+}
+@media(min-width: 768px){
+    .bg-black{
+        background-color: #000000;
+    }
+    .slide-header{
+        display: flex;
+        align-items: flex-end;
+    }
+    main{
+        padding-top: 105px;
+    }
+    .aboutus-info{
+        display: flex;
+        justify-content: space-between;
+        color: #124D58;
+        background-color: #ffffff;
+        position: absolute;
+        z-index: 1;
+        margin: 0 60px;
+        width: calc(100% - 120px);
+        padding: 60px;
+        top: 320px;
+    }
+    .aboutus-info-item{
+        flex-shrink: 0;
+        width: calc(100% / 3);
+        text-align: left;
+        display: block;
+    }
+    .aboutus-info-content{
+        width: calc(100% - 120px);
+        margin: 0 60px;
+        padding: 0 60px;
+        padding-top: 240px;
+        padding-bottom: 60px;
+    }
+    .border-bottom{
+        display: none;
+    }
+    .aboutus-info-detail{
+        padding-left: 0;
+    }
+    .aboutus-info-content h2{
+        font-size: 1.5em;
+    }
+    .icon-container{
+        position: absolute;
+        width: 80px;
+        height: 80px;
+        overflow: hidden;
+        border-radius: 40px;
+        top: -90px;
+        left: 50%;
+        margin-left: -30px;
+    }
+    .icon-container img{
+        width: auto;
+        height: auto;
+    }
+    .cover{
+        background-color: transparent;
+        overflow: hidden;
+        position: static;
+        width: 100%;
+        height: auto;
+        border-bottom: none;
+    }
+    .round-container{
+        position: static;
+        top: 0;
+        width: auto;
+        height: auto;
+        border-radius: 0;
+        overflow: hidden;
+        left: 0;
+        margin-left: 0;
+        display: block;
+        justify-content: center;
+    }
+    .img-container{
+        width: 100%;
+        min-height: 440px;
+    }
+    .img-container img{
+        width: 100%;
+    }
+    .logo-container{
+        position: absolute;
+        top: -3px;
+    }
+    .logo-container .logo{
+        margin-left: 0;
+    }
+    .logo-container .logo img,
+    .logo img{
+        height: 90px;
+    }
+    footer{
+        background-color: #000000;
+        color: #ffffff;
+    }
+    footer a.icon-socmed-link{
+        color: #ffffff;
+    }
+    a.icon-socmed svg{
+        fill: #000000;
+    }
+}
+@media(min-width: 769px) and (max-width: 1130px){
+    a.icon-socmed{
+        margin: 17px 2px;
+    }
+    main{
+        width: auto;
+        padding-top: 105px;
+    }
+}
+@media(min-width: 1130px){
+    a.icon-socmed{
+        margin: 17px 2px;
+    }
+    main{
+        padding-top: 105px;
+    }
+}
+@media(max-width: 1130px){
+    .bg-black{
+        width: 100%;
+        margin: 0;
+        padding-bottom: 1px;
+    }
+    main{
+        margin: 20px 0;
+        margin-top: 0;
+    }
+    .welcome-text{
+        padding: 0 20px;
+    }
+    nav ul{
+        padding: 0;
+    }
+    header{
+        width: 100%;
+    }
+}
+@media(min-width: 1024px){
+    .welcome-text, nav ul{
+        padding: 0 20px;
+    }
+}
+@media(min-width: 1130px){
+    .bg-black{
+        width: 1130px;
+        margin: 0 auto;
+        padding-bottom: 1px;
+    }
+    main{
+        margin: 58px;
+        margin-top: 0;
+        width: auto;
+    }
+    .welcome-text, nav ul{
+        padding: 0 58px;
+    }
+    nav ul{
+        padding-right: 0;
+    }
+    header{
+        width: 1130px;
+    }
+}

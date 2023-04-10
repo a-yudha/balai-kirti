@@ -1,0 +1,691 @@
+{
+    "koleksi": "BALAI KIRTI",
+    "koleksi_detail": "MUSEUM<\/br>KEPRESIDENAN<\/br>REPUBLIK INDONESIA",
+    "logo": "",
+    "cover": "assets/img/cover/BANNER-SLIDE-DESKTOP-01.jpg",
+    "cover_mobile": "assets/img/cover/BANNER-SLIDE-MOBILE-01.jpg",
+    "cover1": "assets/img/cover/CAROUSEL-1-WEB.jpg",
+    "cover_mobile1": "assets/img/cover/CAROUSEL-1-MOBILE.jpg",
+    "cover2": "assets/img/cover/CAROUSEL-2-WEB.jpg",
+    "cover_mobile2": "assets/img/cover/CAROUSEL-2-MOBILE.jpg",
+    "cover3": "assets/img/cover/CAROUSEL-3-WEB.jpg",
+    "cover_mobile3": "assets/img/cover/CAROUSEL-3-MOBILE.jpg",
+    "aboutus_cover": "assets/img/cover/aboutus-cover.jpg",
+    "aboutus_cover_mobile": "assets/img/cover/aboutus-cover-mobile.jpg",
+    "location": "https://www.google.com/maps/place/Museum+Kepresidenan+Balai+Kirti/@-6.5976236,106.7973811,17z/data=!4m12!1m6!3m5!1s0x2e69c5c412a67abb:0x75f23c6b45a37ee5!2sBogor+Botanical+Gardens!8m2!3d-6.5976289!4d106.7995698!3m4!1s0x0:0xb9a978e4ded664f1!8m2!3d-6.5980849!4d106.7954557",
+    "facebook": "https://www.facebook.com/balaikirti",
+    "twitter": "https://twitter.com/MuspresRI",
+    "instagram": "https://www.instagram.com/balaikirti/",
+    "youtube": "https://www.youtube.com/museumkepresidenanribalaikirti",
+    "title": "25 Buku berpengaruh untuk Sukarno",
+    "taicing": "",
+    "version": 1,
+    "releaseDate": "2014-06-25T00:00:00.000Z",
+    "demo": true,
+    "artikel": [
+      {
+        "id": 1,
+        "date_published": "1920",
+        "writer": "Karl Kautsky",
+        "foto_writer": "assets/img/cover/Karl-Kautsky.jpg",
+        "description_writer": "<p>Karl Kautsky (16 Oktober 1854-17 Oktober 1938) dikenal sebagai ahli teori Marxisme berdarah Yahudi. Setelah masuk University of Vienna untuk mempelajari ekonomi, filsafat, dan sejarah, dia bergabung dengan Partai Sosial Demokrat Austria sebelum pindah ke Jerman dan masuk ke Partai Sosial Demokrat Jerman. Kautsky menjadi penentang kuat keterlibatan Jerman dalam Perang Dunia I (PD I).</p><p>Melalui Die Neue Zeit, bulanan yang didirikannya di Stuttgart pada 1883, Kautsky rutin meyebarkan Marxisme. Kautsky bersama August Bebel juga menguraikan teori imperialisme Marxis. Kautsky mendapat kepercayaan dari Friedrich Engels untuk mengedit tiga seri Theories of Surplus Value karya Karl Marx. Setelah Lenin berhasil menggulingkan Tsar dan mengambil alih kekuasaan lewat Revolusi Oktober 1917, Kautsky berdebat keras dengan Lenin. Apa yang dilakukan Lenin, menurutnya dalam Marxism and Bolshevism: Democracy and Dictatorship, merupakan peletakan dasar bagi kediktatoran baru pengganti kediktatoran Tsar karena perubahan revolusioner yang ditimbulkannya tak bertolak dari dasar rasional ekonomi. Itu akan mengakibatkan penderitaan rakyat lebih parah dibanding dalam periode kapitalis.</p><p>Sempat kembali ke Wina, Kautsky kemudian pindah ke Amsterdam dan meninggal di sana pada 1938. Warisan paling berharganya adalah lebih dari 20 buku karyanya. Antara lain: State Socialism (1881), The Free Society (1882), The Economic Doctrines of Karl Marx (1887), The Class Struggle (1892), dua jilid The Social Revolution and on the Day After the Social Revolution (1902), Socialism and Colonial Policy (1907), The Russian Revolution (1917), The Dictatorship of the Proletariat (1918), Terrorism and Communism (1919), The Moscow Trial and the Bolsheviki (1922), Social Democracy versus Communism (1938).</p>",
+        "publisher": "Budhandlung Vorwarts Berlin",
+        "title": "Der Weg Zur Macht",
+        "cover_desktop": "assets/img/cover/Karl-Kautsky-Desktop.jpg",
+        "cover_mobile": "assets/img/cover/COVER-MOBILE01.jpg",
+        "book_cover": "assets/img/cover/Karl-Kautsky-book.jpg",
+        "slide_thumbnail": "assets/img/cover/Karl-Kautsky-cover-book.jpg",
+        "caption_thumbnail": "",
+        "quote": "<p>“Dari mulai umur 16 tahun saya sudah pelajari Marxisme. Dan saya mengambil oper banyak sekali daripada ajaran-ajaran itu. Karena itu aku berkata, saya marxis. Tapi di sampingnya itu aku theis. Oleh karena pun dari sejak umur 16 tahun saya sudah ngelesot di kakinya, misalnya almarhum Tjokroaminoto; saya ngelesot di kakinya Kiai Ahmad Dahlan. Kamu orang tahu kiai Ahmad Dahlan itu siapa? Pendiri Muhammadiyah.... Saya pelajari Marxisme itu dari sejak umur 16 tahun. Ini bukan ke-aku-an, bukan aku, aku, tidak! Fakta. Dari sejak umur 16 tahun saya mempelajari Marxisme itu. Malah banyak di dalam pidato saya di muka Landgerecht Bandung banyak baca kitab Marxis yang saya citeer, yang saya pergunakan dalam perjuangan. Misalnya, kitabnya Karl Kautsky. Karl Kautsky, Der Weg Zur Macht. Bahasa Belandanya De Weg Naar Macht. Karl Kautsky. Kitabnya Karl Kaustky itu boleh dikatakan kadang-kadang, tidur saya bawa. Saking wah, berisikan pengajaran-pengajaran yang tinggi untuk menyusun macht. Bukunya saja namanya Der Weg Zur Macht. De Weg Naar Macht. Dan dia itu salah satu gembong daripada theoritisch en practisch Marxisme.”</p><span>(Amanat Bung Karno di Hadapan Para Anggota Angkatan 45 di Istana Merdeka, Jakarta 13 September 1966. Mengutip buku <em>Karl Kautsky</em>, <em>Der Weg Zur Macht</em>)</span>",
+        "taicing": "Karl Kautsky (16 Oktober 1854-17 Oktober 1938) dikenal sebagai ahli teori Marxisme berdarah Yahudi. Setelah masuk University of Vienna untuk mempelajari ekonomi, filsafat, dan sejarah, dia bergabung dengan Partai Sosial Demokrat Austria sebelum pindah ke Jerman dan masuk ke Partai Sosial Demokrat Jerman",
+        "content":"",
+        "galery":[
+          {
+            "url": "assets/img/cover/Galeri-01.jpg",
+            "caption": "<b>Halaman Judul:</b><br>\"Tanda tangan asli Sukarno\"."
+          },
+          {
+            "url": "assets/img/cover/Galeri-02.jpg",
+            "caption": "<b>Halaman 50:</b><br>\"Tugas pemimpin. Kepentingan teori. Untuk itu, kursus-kursus saya. (a.y.l. apa imperialisme)  Pengetahuan tentang proses bermasyarakat\"."
+          },
+          {
+            "url": "assets/img/cover/Galeri-03.jpg",
+            "caption": "<b>Halaman 63:</b><br>\"Membuat rakyat tidak gampang terpengaruh oleh metode ini melalui pengertian dan harapan. Juga: pemimpin yang mempunyai pengetahuan. Kepercayaan kepada partai. Jangan sampai tertanam keyakinan  bahwa partai adalah “kapuk”.\""
+          },
+          {
+            "url": "assets/img/cover/Galeri-04.jpg",
+            "caption": "<b>Halaman 79:</b><br>\"Kesempatan untuk berevolusi akan pudar. Pertumbuhan serikat-serikat buruh, karena itu daripada absolutisme kapitalis menjadi “pabrik constitusional”.\""
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "date_published": "1907",
+        "writer": "Alexander Parvus",
+        "foto_writer": "assets/img/cover/Alex-Parvus.jpg",
+        "description_writer": "<p>Lahir pada 8 September 1867 dengan nama Israel Lazarevich Gelfand, Alexander Parvus merupakan teoretikus sekaligus aktivis-petualang sosialis Rusia. Sejak pindah ke Swiss pada 1886 dan membaca tulisan Alexander Herzen dan literatur-literatur revolusioner lain, dia bertekad menjadi politikus sehingga pindah ke Jerman untuk bergabung pada Partai Sosialis-Demokrat Jerman. Ketika Partai Sosial Demokrat Rusia pecah, Parvus memilih menawarkan konsep revolusinya sendiri alih-alih menjadi bagian Bolshevik ataupun Manshevik. Menurutnya, tak ada tempat bagi kelas menengah, yang ada hanya buruh yang dapat diandalkan untuk memimpin perjuangan revolusioner menggulingkan Tsar. Parvus mengembangkan konsep perang asing untuk memprovokasi pemberontakan internal di suatu negara, di samping mengembangkan konsep Revolusi Permanen berdasarkan Marxisme.</p><p>Prestis Parvus di antara kaum sosialis Jerman meningkat setelah prediksinya soal Perang Rusia-Jepang akan dimenangkan Jepang dan kondisi setelah itu mendorong kekacauan, terbukti. Ketika kembali ke Rusia pada 1905, sebagai ahli ekonomi dia membuat artikel provokatif yang membuat perekonomian Rusia terganggu dan membuat marah PM Sergei Witte. Keterlibatannya dengan aksi-aksi  anti-pemerintah membuatnya dibuang ke Siberia meski berhasil kabur ke Jerman dan menulis memoar In he Russian Bastille during the Revolution. Setelah reputasinya di lingkungan partai Sosial-Demokrat rusak akibat Maxim Gorky Affair, Parvus menyingkir ke Turki. Dari persahabatannya dengan Dubes Jerman Hans di Turki Freiherr von Wangenheim, Parvus berhasil menawarkan konsep untuk mengalahkan Rusia kepada pemerintah Jerman. Kerjasamanya dengan intelijen Jerman, di mana dia sebagai penyalur dana Jerman bagi gerakan-gerakan penentang Tsar, berakhir ketika Parvus gagal dalam provokasi di St. Petersburg. Namun reputasinya di mata orang Jerman kembali pulih setelah dia berhasil menyabotase rencana penyerangan terhadap armada Turki-Jerman di Bosphorus dan Dardanella oleh Laksamana AL Rusia Aleksandr Kolchak.</p><p>Parvus dan intelijen Jerman mengupayakan perjalanan kereta api untuk Lenin dan 30 rekannya dari Swiss ke Rusia dan Finlandia melewati Jerman. Namun permainan Parvus dengan intelijen Jerman membuat hubungannya dengan Rosa Lusemburg dan para sosialis Jerman lain rusak. Dia lalu menyingkir ke Pulau Merak di Berlin hingga meninggal pada 12 Desember 1924. Dia tak berpartisipasi dalam Revolusi Oktober 1917 akibat perannya ditolak. Parvus mewariskan karya antara lain: In the Russian Bastille during the Revolution, The Plan of the Russian Revolution, dan The Financial Manifesto.</p>",
+        "publisher": "Leipziger Buchdruckerei",
+        "title": "Die Kolonialpolitik",
+        "cover_desktop": "assets/img/cover/PARVUS-DESKTOP.jpg",
+        "cover_mobile": "assets/img/cover/PARVUS-MOBILE.jpg",
+        "book_cover": "assets/img/cover/Die_Kolonialpolitik-Parvus.jpg",
+        "slide_thumbnail": "assets/img/cover/Parvus-cover-book.jpg",
+        "caption_thumbnail": "Lahir pada 8 September 1867 dengan nama Israel Lazarevich Gelfand, Alexander Parvus merupakan teoretikus sekaligus aktivis-petualang sosialis Rusia. Sejak pindah ke Swiss pada 1886 dan membaca tulisan Alexander Herzen dan literatur-literatur revolusioner lain, dia bertekad menjadi politikus sehingga pindah ke Jerman untuk bergabung pada Partai Sosialis-Demokrat Jerman. Ketika Partai Sosial Demokrat Rusia pecah, Parvus memilih menawarkan konsep revolusinya sendiri alih-alih menjadi bagian Bolshevik ataupun Manshevik.",
+        "quote": "<p>“Begitulah pendapat “kaum merah”. Tetapi juga Kolonial-Direktor Dernburg, pemimpin imperialisme Jerman sebelum perang besar, seorang yang karena itu bukan kaum “penghasut”,—Kolonial Direktor Dernburg yang di muka sudah kami dalilkan kalimatnya yang begitu terus terang tentang asas-asas penjajahan yang sebenarnya,– Kolonial-Director Dernburg itu dengan terus terang lagi berkata:</p><p>“Tapi semua bangsa yang mempunyai tanah jajahan, telah mengalami, bahwa daerah-daerah jajahan yang luas dengan tiada jalan-jalan kereta api, tetap menjadi harta milik tertutup yang tidak memberikan jaminan keuntungan ekonomi”. ”</p><span>(Pidato Pembelaan Bung Karno, “Indonesia Menggugat”, mengutip Parvus,  <em>“Die Kolonial Politik und der Zusammenbruch”</em> hal.15).</span>",
+        "taicing": "",
+        "content": "",
+        "galery":[
+          {
+            "url": "assets/img/cover/Parvus-Cover.jpg",
+            "caption": "<b>Halaman Judul:</b><br>\"Tanda tangan asli Sukarno.\""
+          },
+          {
+            "url": "assets/img/cover/Parvus-Hal-15.jpg",
+            "caption": "<b>Halaman 15:</b><br>\"Bagaimana kapital industri menjadi faktor dari kemenangan total dari psike kolonial akhir abad 19 (untuk Holland).\""
+          },
+          {
+            "url": "assets/img/cover/Parvus-Hal-16.jpg",
+            "caption": "<b>Halaman 16:</b><br>\"60 dan 70. Penjelasan bahwa hanya kapitalisme berkepentingan dengan koloni-koloni.\""
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "date_published": "1921",
+        "writer": "Dr. W. Huender",
+        "foto_writer": "assets/img/cover/Dr-W-Huender.jpg",
+        "description_writer": "<p>Dr. Willem Huender merupakan diplomat Belanda kelahiran Amsterdam, 30 Mei 1900. Setelah lulus dari jurusan Ilmu Politik Universitas Leiden pada 1921, dia ke Hindia Belanda (kini Indonesia) dan menduduki beragam jabatan dalam pemerintahan. Pada 1921, Huender berupaya mengkritik klaim pemerintah –bahwa keadaan rakyat telah berhasil diperbaiki sejak 50 tahun sebelumnya – yang berangkat dari statistik belaka. Untuk itu, Huender mengadakan survei lapangan tentang keadaan rakyat Jawa dan Madura. Hasilnya dia bukukan dan terbit pada tahun itu juga.</p><p>Menjelang Perang Dunia II, Huender diangkat menjadi konsul Belanda di Manila dan tinggal di Manila bersama istrinya. Ketiga anaknya tinggal di Bandung. Maka ketika Perang Pasifik pecah, mereka terpisah. Huender dan istri dibawa ke Shanghai dan ditahan di sana, ketiga anak mereka ditahan di Batavia. Meski upaya Huender untuk meminta pembebasan anak-anaknya gagal, mereka akhirnya bersatu kembali di Singapura.</p><p>Usai perang, Huender kembali aktif sebagai diplomat. Pernah menjadi perwakilan Belanda di Allied Mission di Berlin, Huender ditunjuk menjadi gubernur jenderal Suriname pada 2 Agustus 1948. Namun karena alasan kesehatan, dia mengundurkan diri pada 1 Agustus 1949. Buku terpenting Huender yakni Overzicht van den Economischen Toestand der Inheemsche Bevolking van Java en Madoera (Overview of the Economic Condition of the Indigenous Population of Java and Madure), terbit tahun 1921 dan Onderzoek naar den Belastingdruk op de Inlandsche Bevolking (Research into the Tax Burden on the Native Population) yang ditulis bersama JW Meijer Ranneft dan terbit 1926.</p>",
+        "publisher": "s-Gravenhage Martinus Nijhoff",
+        "title": "Overzicht van den economischen toestand der inheemsche bevolking van Java en Madoera",
+        "cover_desktop": "assets/img/cover/HUENDER-DESKTOP.jpg",
+        "cover_mobile": "assets/img/cover/HUENDER-MOBILE.jpg",
+        "book_cover": "assets/img/cover/Overzicht_Van_Den_Economischen--Dr_W_Huender.jpg",
+        "slide_thumbnail": "assets/img/cover/DR-W-HUENDER-cover-book.jpg",
+        "caption_thumbnail": "",
+        "quote": "<p>“Dus kalau kita mengadakan perlawanan terhadap imperialisme dan kapitalisme itu, itu pun sebenarnya adalah suatu historische notwendigheid. Adanya masyarakat tanpa kita toh revolusi ini akan datang. Toh kita itu lantas bergerak. Toh kita itu lantas mengadakan perlawanan terhadap sistem pengisapan, sistem pemelaratan kita, sistem yang membuat kita natie van koelis en een koeli onder de natie, kataku meniru perkataan seorang Belanda, yaitu Dr. Huender. Mau tidak mau.”</p><span>(Amanat Bung Karno kepada Majelis Permusyawaratan PNI di Istana Negara, 2 Desember 1966. Mengutip Dr. W. Huender, <em>Overzicht Van Den Economische Toestand Der Inheemsche Bevolking van Java en Madoera.</em>)</span>",
+        "taicing": "",
+        "content": "",
+        "galery":[
+          {
+            "url": "assets/img/cover/Dr._W._Huender-galeri-02.jpg",
+            "caption": "<b>Halaman Judul:</b><br>\"Tanda tangan asli Sukarno.\""
+          },
+          {
+            "url": "assets/img/cover/Dr._W._Huender-galeri-03.jpg",
+            "caption": ""
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "date_published": "1900",
+        "writer": "Thomas Carlyle ",
+        "foto_writer": "assets/img/cover/Thomas-Carlyle-.jpg",
+        "description_writer": "<p>Thomas Carlyle (lahir di Skotlandia, 4 Desember 1795) merupakan kritikus sosial terkemuka di Inggris era Victoria awal yang menyebut ilmu ekonomi sebagai ilmu yang suram. Dia terpengaruh idelisme Jerman, terutama pada tulisan-tulisan Johann Gottlieb Fichte, dan menyebarkannya ke Inggris lewat serial esainya di Fraser’s Magazine. Carlyle menulis Life of Shciller sambil menerjemahkan karya-karya penulis Jerman, terutama novel Goethe Wilhelm Meisters Lehjahre.</p><p>Dengan semangat Calvinis yang diturunkan ayahnya, Carlyle menentang materialisme dan mekanisme Revolusi Industri. Sikap rasisnya yang amat membanggakan Anglo-Saxon membawanya pada kebencian teramat besar pada Yahudi. Carlyle juga tidak suka pada demokrasi. Kepemimpinan ideal menurutnya adalah kepemimpinan kharismatis seperti yang ditunjukkan oleh Friedrich II, tokoh yang sejarahnya dia tuliskan dalam History of Friedrich II of Prusia. Banyak sarjana kemudian menganggap tulisan-tulisan Carlyle, terutama biografi Friedrich Agung, menginspirasi kemunculan fasisme dan Nazisme.</p><p>Namun, para ilmuwan sepakat esai-esai Carlyle di masa Victoria awal dianggap sebagai penanda era baru satir sosial. Keberanian Carlyle berinovasi membuatnya sukses dalam tiap tahap kehidupan intelektualnya.  Saat meninggal pada 5 Februari 1881, Carlyle meninggalkan warisan bagi dunia ilmiah di bidang sejarah, sastra, sosial, bahkan matematika dengan metode Carlyle Circle-nya. Dimulai dari novel Sartor Resartus, ketika meninggal Carlyle mewariskan banyak buku. Buku terpentingnya adalah tiga jilid The French Revolution: A History dan On Heroes, Hero-Worship, and the Heroic in History.</p>",
+        "publisher": "Gebr E&M Cohen Amsterdam",
+        "title": "De Fransche Revolutie",
+        "cover_desktop": "assets/img/cover/THOMAS-CARLYE-DESKTOP.jpg",
+        "cover_mobile": "assets/img/cover/THOMAS-CARLYE-MOBILE.jpg",
+        "book_cover": "assets/img/cover/De_Fransche_Revolutie-Thomas_Carlye.jpg",
+        "slide_thumbnail": "assets/img/cover/Thomas-Carlyle-cover-book.jpg",
+        "caption_thumbnail": "",
+        "quote": "<p>“Saya, Saudara-saudara, selalu mengaku terus terang, saya ini banyak belajar, banyak membaca, banyak sekali. Malahan saya katakan, saya mengharap kepada wartawan-wartawan, mbok banyak belajar, mbok banyak mempelajari sejarah, mbok banyak membaca buku. Pernah saya citeer di sini ucapan Thomas Carlyle, Saya ulangi, Thomas Carlyle penulis luhur, agung, jempolan, kelahiran Scot. Thomas Carlyle menulis beberapa buku. Antara lain The French Revolution, satu buku yang mengagumkan, The French Revolution. Thomas Carlyle menulis juga buku On Heroes and Hero Worship. Di dalam buku Thomas Carlyle On Heroes and Hero Worship itulah dia mengatakan bahwa baik sekali untuk membaca buku sebanyak mungkin. Dan dia berkara pun buku adalah universitas. Books are the universities of time. Boeken zijn de universiteiten onze dagen.”</p><span>(Amanat Presiden Sukarno pada Hari Ulang Tahun Lembaga Kantor Berita Nasional Antara di Istana Bogor, 12 Desember 1965)</span>",
+        "taicing": "",
+        "content": "",
+        "galery":[
+          {
+            "url": "assets/img/cover/THOMAS-CARLYLE-galeri-01.jpg",
+            "caption": ""
+          },
+          {
+            "url": "assets/img/cover/THOMAS-CARLYLE-galeri-01 -2.jpg",
+            "caption": ""
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "date_published": "1921",
+        "writer": "Karl Marx",
+        "foto_writer": "assets/img/cover/Karl-Marx.jpg",
+        "description_writer": "<p>Karl Marx (lahir di Trier, Jerman pada 5 Mei 1818) merupakan salah satu pemikir paling berpengaruh di dunia. Teorinya, Marxisme, hingga kini masih dijadikan kajian di dunia akademis dan acuan gerakan buruh dan beragam gerakan perlawanan di berbagai dunia.</p><p>Kecerdasan dan kekritisan Marx dibentuk dasarnya oleh ayahnya, Heinrich Marx, yang pengagum ide-ide Voltaire dan Immanuel Kant dan aktif dalam agitasi untuk mereformasi Monarki absolut Prusia. Saat kuliah, Marx keluar-masuk berbagai klub diskusi hingga akhirnya terpikat pemikiran filsuf Friedrich Hegel dan masuk klub Young Hegelians. Marx banyak belajar terutama pada Ludwig Feuerbuach dan Bruno Bauer –partner Marx ketika mengedit Philosophy of Religion karya Hegel– sambil menulis fiksi maupun non fiksi.</p><p>Setelah fokusk pada non-fiksi, Marx menjadi jurnalis di media kiri Rheinische Zeitung. Karya penting Marx muncul setelah berkolaborasi dengan Friedrich Enges, yang kemudian menjadi sahabat karib abadinya. Marx dan Engels menulis The German Ideology sebagai finalisasi pencarian filosofi keduanya saat itu, yang mendasarkan pada materalisme sebagai satu-satunya kekuatan penggerak dalam sejarah. Pada 1848, Marx-Engels menerbitkan pamflet politik monumental The Communist Manifesto. Setelah menetap di London, Marx hingga akhir hayatnya hidup dalam keadaan ekonomi minim sehingga salah seorang anaknya sampai meninggal. Di kota inilah Marx, dengan sokongan dana Engels, menyelesaikan magnum opus-nya: tiga jilid Das Kapital dan sejilid The Theories of Surplus Value (sering disebut Das Kapital jilid empat; risalah komprehensif pertama tentang sejarah pemikiran ekonomi). Namun, Marx hanya melihat penerbitan Das Kapital Jilid 1 karena keburu meninggal pada 14 Maret 1883.</p><p>Selain The Communist Manifesto dan Das Kapital, karya-karya yang diwariskan Marx antara lain novel Scorpion and Felix, Critique of Hegel’s Philosophy of Right (1843), Comment on James Mill (1844), The Poverty of Philosophy (1847), The June Revolution in Paris (1848), The Class Struggle in France, 1848 to 1850 (1859), Contribution to Critique of Political Economy (1859).</p>",
+        "publisher": "Otto Meissners Verlag",
+        "title": "Das Kapital",
+        "cover_desktop": "assets/img/cover/KARL-MARX-DESKTOP.jpg",
+        "cover_mobile": "assets/img/cover/KARL-MARX-MOBILE.jpg",
+        "book_cover": "assets/img/cover/Das_Kapital-Karl_Marx.jpg",
+        "slide_thumbnail": "assets/img/cover/Karl-Marx-cover-book.jpg",
+        "caption_thumbnail": "",
+        "quote": "<p>“… Demikian pula sejarah daripada gerakan-gerakan sosialis ini. Saudara para wartawan, pernahkah saudara membaca teori-teori Marx? Tidak perlu yang sukar-sukar Marxnya sendiri. Oo, intepretators daripada marxisme itu satu gudang, Saudara-saudara, bukunya. Saya sendiri mula membaca Karl Marx asli, tatkala saya sudah dikatakan umur 25 – 26 tahun. Tetapi tatkala saya masih umur 16 – 17, malahan 18, saya membaca interpretators dan commentators daripada Marx dan Engels. Merekalah yang membuka pintu bagiku, sesudah aku membaca kitab-kitab kecil tulisan interpretators- interpretators ini, baru saya masuk ke pintu gerbangnya gedung Marx sendiri.”</p><span>(Amanat Presiden Sukarno pada Pembukaan Upgrading Wartawan PWI di Istana Bogor, 12 Februari 1966)</span>",
+        "taicing": "",
+        "content": "",
+        "galery":[
+          {
+            "url": "assets/img/cover/KARL-MARX-galeri-01.jpg",
+            "caption": ""
+          },
+          {
+            "url": "assets/img/cover/KARL-MARX-galeri-02.jpg",
+            "caption": ""
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "date_published": "1925",
+        "writer": "JS Bartstra",
+        "foto_writer": "assets/img/cover/Jan-Steffen-bartstra.jpg",
+        "description_writer": "<p>Jan Steffen Bartstra merupakan sejarawan sosialis Belanda kelahiran Westerbork, 30 Juni 1887. Ketika usianya tiga tahun, ibunya meniggal dan kemudian ayahnya menikah lagi lalu pindah ke Hindia Belanda. Akibatnya, Bartstra terpaksa tinggal bersama kakek-nenenkya, Douwe Bartstra dan Akke Klazes Faber, di Bolsward. Di bawah asuahn kakek-nenenkya, Bartstra lulus dari Gymnasium Sneek dan pada 1906 masuk jurusan Sastra Belanda Universitas Leiden. Di Minerva, buletin kampus tempatnya menjadi editor, Bartstra berkenalan dan bersahabat dengan Pieter Catharinus Arie Geyl yang kelak menjadi sejarawan Belanda.</p><p>Setelah mendapat titel master, Bartstra mengajar di Gymnasium Schiedam dan Gymnasium Haarlem. Dia juga menjadi sekretaris di Volksuniversiteit Amsterdam, aktif menulis di sejumlah koran, dan aktif di Partai Buruh Sosial-Demokrat (SDAP). Aktivitas tersebut mandek ketika dia harus \"tiarap\" semasa Belanda diduduki Jerman-Nazi di Perang Dunia II. Namun, Bartstra tetap \"berjuang\" dengan menyembunyikan siswa-siswa Yahudi dan siswa-siswa sosialis di rumahnya agar tak ditangkap Gestapo.</p><p>Lima tahun pasca-perang, ia dianugerahi Master Prize oleh Maatschappij der Nederlandsche Letterkunde (MNL) atas karya-karyanya yang fokus pada sastra dan sejarah modern. Antara lain: Geschiedenis van het Modern Imperialisme, Tijdvak 1880-1906 (1925), De Pelgrimstocht der Menschheid (1937), dan Nederland Tussen de Natiën: Een Bijdrage tot onze Cultuurgeschiedenis (1946). Bartstra meninggal di kediamannya, Haarlem, pada 19 November 1962.</p>",
+        "publisher": "Haarlem : De Erven F. Bohn",
+        "title": "Geschiedenis van het Moderne Imperialisme",
+        "cover_desktop": "assets/img/cover/Desktop-JS-Bartstra.jpg",
+        "cover_mobile": "assets/img/cover/Mobile-JS-Bartstra.jpg",
+        "book_cover": "assets/img/cover/Geschiedenis_van_het_Moderne_Imperialisme--JS_Bartstra.jpg",
+        "slide_thumbnail": "assets/img/cover/Bartstra-cover-book.jpg",
+        "caption_thumbnail": "",
+        "quote": "<p>“Sekianlah dalil-dalil kami tentang arti kata imperialisme, dari pena orang-orang sosialis. Marilah kita sekarang mendengarkan keterangan orang yang bukan sosialis, yakni keterangan Dr. J. S. Bartstra di dalam bukunya “Geschiedenis van het moderne imperialisme”, di mana nanti akan tampak juga kebenaran perkataan kami, bahwa imperialisme itu bukan pemerintahan, bukan sesuatu anggota pemerintah, bukan sesuatu bangsa asing,–tetapi suatu kehausan, suatu nafsu, suatu sistem menguasai atau 8 mempengaruhi ekonomi bangsa lain atau negeri lain. Berkata Dr. Bartstra: “Perkataan “imperialisme” pertama sekali dipakai di Inggris kirakira tahun 1880. Yang dimaksud orang dengan perkataan itu, ialah usaha untuk mengeratkan kembali perhubungan dengan Inggris dari daerah-daerah jajahan yang memerintah sendiri dan pertaliannya dengan negeri induknya sudah agak kendur dalam “masa liberal” yang lampau. Yang menarik hati ialah bahwa perkataan itu sudah hilang sama sekali maknanya yang mula-mula itu”. …….. lama-kelamaan perkataan itu mendapat isi-pengertian yang lain: maknanya sekarang ialah usaha bangsa Inggris, yang hendak memberi kepada “kerajaan” pengluasan daerah jajahan yang lebih besar, baik dengan jalan menaklukkan negeri-negeri yang oleh karena letaknya dalam ilmu bumi mungkin membahayakan jika berada dalam tangan saingan, manapun dengan jalan merampas daerah-daerah, yang bisa dijadikan pasar penjualan yang baik atau tepat-tempat orang bisa mendapakan bahan-bahan pokok untuk pertukangan dalam negeri, yang justru waktu itu mulai makin menderita oleh saingan luar negeri”. “Dalam arti pengluasan daerah jajahan dengan tidak berbatas, pengertian itu segera juga menjadi umum….”</p><span>(Bung Karno mengutip J.S. Bartstra, <em>“Geschiedenis van het Moderne Imperialisme”</em> dalam pidato pembelaannya “Indonesia Menggugat” di hadapan hakim kolonial di Landraad Bandung, 1930)</span>",
+        "taicing": "17",
+        "content": "",
+        "galery":[
+          {
+            "url": "assets/img/cover/Cover2-JS-Bartstra-hal-bandung.jpg",
+            "caption": "<b>Halaman Judul:</b><br>Tanda tangan asli Sukarno. Dari teman-teman Bandung, saat dalam kurungan."
+          },
+          {
+            "url": "assets/img/cover/JS-Bartstra-hal-6.jpg",
+            "caption": "<b>Halaman 6:</b><br>Propaganda SD"
+          },
+          {
+            "url": "assets/img/cover/JS-Bartstra-hal-7.jpg",
+            "caption": "<b>Halaman 7:</b><br>Fase kedua, ketiga, keempat. Terjadinya fase keempat. Juga dengan keuntungan kolonial."
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "date_published": "1930",
+        "writer": "V.I. Lenin",
+        "foto_writer": "assets/img/cover/VI.-Lenin.jpg",
+        "description_writer": "<p>Vladimir Ilyich Ulyanov atau Lenin, yang lahir di Simbirsk (kini Ulyanovsk), Rusia pada  22 April 1870, merupakan revolusioner yang sukses mewujudkan gagasannya tentang revolusi proletar yang  –oleh Martov disebut Leninisme– diinterpretasikannya dari Marxisme. Kenyang ditahan dan dibuang, Lenin mulai terjun ke politik saat kuliah di Kazan University. Aktivitasnya semakin jadi setelah dia membaca Das Kapital Marx yang dijadikannya acuan dalam berjuang dan juga berteori. Setelah lulus dari University of St. Petersburg, Lenin diangkat ke posisi senior di Sosial-Demokrat, sel revolusioner Marxis di Rusia, dan berhasil mendorong pendirian sel-sel revolusioner di pusat-pusat industri Rusia dan memimpin lingkaran buruh Marxis.</p><p>Usai pembuangan di Siberia, tempat dia menikahi Nadezhda \"Nadya\" Krupskaya yang dijadikan partner dalam menerjemahkan literatur-literatur sosialisme berbahasa Inggris ke bahasa Rusia, Lenin makin sering menulis dan berteori. Dia setia pada revolusi dengan kekerasan dan menganggap perlu sebuah partai pelopor kuat untuk memimpin proletar menuju revolusi. Lenin kemudian mendirikan suratkabar Iskra –tempat dia pertamakali menggunakan nama ‘Lenin’– yang dijadikan organ baru partai Marxis Rusia, Russian Social Democratic Labour Party (RSDLP). Di Kongres RSDLP II, Juli 1903, Lenin berpisah jalan dengan Julius Martov karena Lenin berprinsip partai mesti memiliki kepemimpinan kuat, sementara Martov menyatakan anggota partai mesti dapat mengekspresikan diri secara independen dari partai.</p><p>Lenin yang mendapat dukungan mayoritas (Rusia: Bol’sheviki) terus bersaing dengan Mansheviks (minoritas) pimpinan Martov dalam mewujudkan sosialisme Rusia. Kelaparan di beberapa kota Rusia pada Perang Dunia I dijadikan Lenin untuk menggerakkan Bolshevik di Petrograd (St. Petersburg) guna menjatuhkan Tsar (Revolusi Februari 1917) dan berhasil. Tak puas terhadap pemerintah provisional di Republik Rusia bentukan Duma setelah Tsar jatuh, Lenin memimpin Bolshevik melakukan Revolusi Oktober. Lenin berhasil mengambil alih kekuasaan dan memimpin Republik Rusia sambil terus memperluas kekuasaan Soviet (serikat buruh) ke luar Rusia dan berpuncak pada bendirinya Uni Soviet.</p><p>Meninggal pada 22 Januari 1924, Lenin mewariskan banyak gagasan yang dituangkannya ke dalam sejumlah buku. Antara lain: A Protest by Russian Social-Democrats; The Development of Capitalism in Russia; What Is To Be Done?; To The Village Poor; One Step Forward, Two Steps Back; Two Tactics of Social Democracy in the Democratic Revolution, Materialism and Empirio-Criticism; Imperialism, the Highest Stage of Capitalism.</p>",
+        "publisher": "Verlag Fur Literatur Und Politik",
+        "title": "Der Kampf Um Die Bolschewistische Partei",
+        "cover_desktop": "assets/img/cover/LENIN-DESKTOP.jpg",
+        "cover_mobile": "assets/img/cover/LENIN-MOBILE.jpg",
+        "book_cover": "assets/img/cover/Der_Kampf_Um_Die_Bolschewistische_Partei-W_L_Lenin.jpg",
+        "slide_thumbnail": "assets/img/cover/Lenin-cover-book.jpg",
+        "caption_thumbnail": "",
+        "quote": "<p>“ Ya kami anti-Gestapu! Ya, Gestapu kan lain. Emma Puradiredja, itu kan lain! Malah saya di dalam pidato saya di hadapan Kabinet Pleno pernah saya mengatakan, menguraikan kepada tuan-tuan dan nyonya-nyonya pemimpin, bahwa perbuatan Gestapu adalah satu, ditinjau dari segi Marxisme, eine kinder krankheit des komunismus, kinderkrankheit des komunismus. Yang sudah terjadi pula di Soviet Uni, zamannya Lenin. Zaman-zaman Lenin itu ada orang-orang mengira, ho, sosialisme tidak bisa dijalankan kalau dijalankan dengan cara begini. Sosialisme hanyalah bisa dijalankan kalau kita potong lehernya orang-orang yang tidak mengikuti sosialisme. Lantas pemuda-pemuda Soviet Uni ini menembak mati beberapa jenderalnya, seperti di sini, 1 Oktober. Ada orang yang membakar rumahnya orang-orang yang bekasnya kapitalis. Lenin terus bangun, hukum perbuatan yang demikian ini. Malahan Lenin mengatakan ini adalah kinderkrankheit, anak kecil yang tidak mengerti kepada revolusi.”</p><span>(Amanat Presiden Sukarno di Hadapan Para Anggota Golongan Karya Nasional di Istana Bogor, malam hari, 11 Desember 1965).</span>",
+        "taicing": "16",
+        "content": "",
+        "galery":[
+          {
+            "url": "assets/img/cover/Lenin-Cover.jpg",
+            "caption": "<b>Halaman Judul:</b><br>Tanda tangan asli Sukarno."
+          },
+          {
+            "url": "assets/img/cover/Lenin-hal24.jpg",
+            "caption": "<b>Halaman 24:</b><br>Kemungkinan besar kejatuhan dari absolutisme (terjadi) oleh komplikasi dari “luar”. Tetapi jangan percaya/mengharap itu (akan terjadi)."
+          },
+          {
+            "url": "assets/img/cover/Lenin-hal47.JPG",
+            "caption": "<b>Halaman 47:</b><br>Belajar dari pengalaman di luar negeri Pelopor, teori pelopor."
+          },
+          {
+            "url": "assets/img/cover/Lenin-hal121.JPG",
+            "caption": "<b>Halaman 121:</b><br>Sama. Dalih dari organisasi: “menyerahkan kepada spontanitas” Teori spontanitas menyebabkan “teori keputusasaan”."
+          },
+          {
+            "url": "assets/img/cover/Lenin-Hal128.JPG",
+            "caption": "<b>Halaman 128:</b><br>Organisasi revolusi membutuhkan tuntutan beda daripada “organisasi buruh”."
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "date_published": "1922",
+        "writer": "Lothrop Stoddard",
+        "foto_writer": "assets/img/cover/Lothrop-Stroddard.jpeg",
+        "description_writer": "<p>Theodore Lothrop Stoddard yang lahir pada 29 Juni 1883 merupakan jurnalis, sejarawan, dan ilmuwan rasis pendukung supremasi kulit putih. Beberapa buku rasisme ilmiah yang menganjurkan egenetika telah ditulisnya. Ia membagi menjadi tiga. Ia penentang migrasi Yahudi karena dianggap sebagai ancaman supremasi kulit putih di Amerika, di samping penganjur UU anti-miscegenation (perkawinan antar-suku bangsa) demi mempertahankan hierarki rasial. Selain menjadi anggota Ku Klux Klan, ia ikut menjadi pendiri American Birth Control League dan banyak organisasi lain ilmiah-rasis lain.</p><p>Namun pelecehannya terhadap kulit berwarnanya paling utama ditujukan terhadap kulit hitam, yang menurutnya tak punya peradaban sendiri dan tak berkontribusi apapun terhadap dunia. Karena itulah Stoddard pernah dipermalukan sejarawan cum aktivis HAM WE Burghardt du Bois dalam perdebatan di Chicago Forum Council. Hadirin sampai menertawakan Stoddard. Momen tersebut sampai dimuat dalam headline The Chicago Defender dengan judul \"5,000 Cheer W.E.B DuBois, Laugh at Lothrop Stoddard\".</p><p>Meski begitu, buku The Revolt Against Civilization: The Menace of the Under-man Stoddard menginspirasi Nazi di Jerman. Buku tersebut juga menjadi acuan Alfred Rosenberg, kepala Teorertikus Ras Partai Nazi, ketika kemudian mengeluarkan istilah untermensch alias orang non-Arya sebagai masyarakat inferior. Selama kunjungannya ke Jerman jelang Perang Dunia II, Stoddard mendapat perlakuan lebih dibanding jurnalis lain sehingga bisa berkeliling ke berbagai tempat dan mewawancarai banyak petinggi Nazi.</p><p>Teorinya yang rasis-ilmiah membuat popularitasnya menurun drastis pasca-perang karena dianggap senada dengan Naziisme. Akibatnya kematiannya pada 1950 hampir ditutup-tutupi. Stoddard meninggalkan warisan banyak buku, antara lain Present-Day Europe, Its National States of Mind (1917), The Rising Tide of Color Against White World-Supremacy (1921), Racial Realities in Europe (1924), Scientific Humanism (1926), Clashing Tides of Our Color (1935).</p>",
+        "publisher": "Chapman & Hall Ltd",
+        "title": "The New World of Islam",
+        "cover_desktop": "assets/img/cover/Desktop-LothropStoddard.jpg",
+        "cover_mobile": "assets/img/cover/Mobile-LothropStoddard.jpg",
+        "book_cover": "assets/img/cover/The_New_World_of_Islam--Lothrop_Stoddard.jpg",
+        "slide_thumbnail": "assets/img/cover/Lothrop-Stoddard-cover-book.jpg",
+        "caption_thumbnail": "",
+        "quote": "<p>“Apa engkau bisa menghalangi ideologi agama, tumbuh, tumbuh, tumbuh, tumbuh di dalam satu masyarakat yang agama ditekan, di dalam satu masyarakat yang orang tidak boleh menjalankan agama sebagai yang ter-prescribe oleh kitab-kitab suci agamanya? Apakah engkau bisa menghalangi? Apakah engkau bisa memadamkan gerakan agama, ideologi agama? Saya ulangi, baca Lothrop Stoddard, The New World of Islam. Di situ juga diterangkan apa sebab Islam membangunkan satu new world of Islam. Dulu memang ada old world of Islam, tatkala rakyat-rakyat Islam tidur, do nothing, tatkala rakyat-rakyat Islam ya cuma saja pegang tasbih, duduk di masjid. Dikiranya sudah Islam kalau tasbih berputar, Allahu Akbar, Allahu Akbar, Allahu Akbar, Allahu Akbar, Allahu Akbar. Tetapi eee… timbul ideologi Islam, sesuai dengan ajaran Islam yang asli, the new world of Islam. Ya, Ambassador Huque, Pakistan, I think you have read this book, Lothrop Stoddard, The New World of Islam. Why the new world of Islam, why? Because the objective, the objective circumstances gave birth to the new world of Islam. Jadi saya tanya, adakah satu orang yang bisa memadamkan the new world of Islam ini? Tidak ada!”</p><span>(Amanat Presiden Sukarno pada Peringatan Hari Pahlawan dan Pemberian Tanda Jasa Bintang Maha Putera III kepada almarhum Robert Wolter Monginsidi di Istana Negara, Jakarta 10 Novermber 1965)</span>",
+        "taicing": "14",
+        "content": "",
+        "galery":[
+          {
+            "url": "assets/img/cover/Lothrop-cover.jpg",
+            "caption": "<b>Halaman Judul:</b><br>\"Tanda tangan asli Sukarno\"."
+          },
+          {
+            "url": "assets/img/cover/Lothrop-Stoddard-hal213.jpg",
+            "caption": "<b>Halaman 213:</b><br>\"Gokhale, Penampilan mencapai perdamaian. Pertumbuhan, kaum muslim.\"."
+          },
+          {
+            "url": "assets/img/cover/Lothrop-Stoddard-hal279.jpg",
+            "caption": "<b>Halaman 279:</b><br>\"Inteligensia dan proletariat Asia. Ya, India!\"."
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "date_published": "1936",
+        "writer": "Leo Trotsky",
+        "foto_writer": "assets/img/cover/Leon-Trotsky.jpg",
+        "description_writer": "<p>Lahir dengan nama Lev Davidovich Bronstein pada 7 November 1879 di Yanovka, Ukraina, jiwa kosmopolitan Trotsky terbentuk sejak dikirim ayahnya ke Odessa untuk bersekolah di sekolah berbahasa Jerman. Sajak remaja Trotsky telah berpolitik dengan bergabung pada aktivitas bawah tanah. Penjara dan pembuangan menjadi akrab dengannya, hal yang membuat tekadnya untuk memperjuangkan keadilan sosial kian menguat. Di pembuangannya di Siberia, Trotsky bergabung dengan Partai Sosial Demokrat dan mendalami filsafat. Atas dorongan istrinya Aleksandra Sokolovskaya, Trotsky kabur dari Siberia pada 1902 dan hingga 15 tahun berikutnya dia tinggal di luar negeri, termasuk London.</p><p>Di London, dia bergabung dan menjadi orang penting di Iskra, suratkabar milik Partasi Sosialis-Demokrat (PSD) Rusia yang didirikan Lenin, dengan nama pena Pero. Trotsky berpisah jalan dengan Lenin ketika PSD pecah menjadi Bolshevik (dipimpin Lenin) dan Mansheviks (Julius Martov) pada 1903 dan menahbiskan diri sebagai “Sosdem non-faksi”. Menolak gagasan revolusi Lenin, Trotsky mengembangkan teori 'revolusi permanen' sendiri. Setelah Revolusi Februari di Petrograd (Februari 1917), Trotsky kembali ke Rusia dan bergabung dengan Bolshevik. Dia memainkan peran vital dalam pengambilalihan kekuasaan oleh Bolshevik (komunis) pada Revolusi Oktober. Trotsky menjadi orang kedua dua setelah Lenin pada tahap awal pemerintahan komunis Soviet dan diberi jabatan Komisaris Luar Negeri di kabinet Lenin. Dia berperan penting dalam negosiasi persyaratan perdamaian dengan Jerman dan pembangunan Tentara Merah sehingga menang dalam perang saudara.</p><p>Namun sepeninggal Lenin, Trotsky kalah dari Stalin dalam perebutan kekuasaan. Dia dikeluarkan dari partai dan diasingkan, mula-mula di wilayah Soviet kemudian di luar Soviet. Dalam pengasingannya, dia terus menulis kritikan terhadap Stalin. Namun ketika dalam pengasingannya di Mexico City, dia dibunuh agen NKVD Ramon Mercader pada 21 Agustus 1940. Trotsky mewariskan lebih dari 60 buku karyanya. Antara lain: Our Political Tasks (1904), Our Revolution (1906), My Flight from Siberia (1907), The Bolsheviki and World Peace (1918), History of the October Revolution (1918), The Permanent Revolution and Results and Prospects (1919), The Real Situation in Russia (1928), The Stalinist of Falsification (1932), The Third International After Lenin (1936), The Revolution Betrayed: What is the Soviet Union and Where is It Going? (1937).</p>",
+        "publisher": "NV Em. Querido Uitgeversmaatschappij",
+        "title": "Geschiendenis der Russiche Revolutie",
+        "cover_desktop": "assets/img/cover/LEO-TROTZKY-DESKTOP.jpg",
+        "cover_mobile": "assets/img/cover/LEO-TROTZKY-MOBILE.jpg",
+        "book_cover": "assets/img/cover/Geschiendenis_der_Russiche_Revolutie--Leo_Trotzki.jpg",
+        "slide_thumbnail": "assets/img/cover/Leo-Trotzki-cover-book.jpg",
+        "caption_thumbnail": "",
+        "quote": "<p>“Apakah kita bisa mengajar kepada revolusi? Tidak bisa. Seperti revolusi ini bukan produk sebetulnya dari seseorang. Revolusi adalah satu pertumbuhan daripada masyarakat. Malah kalau percaya kepada Trotsky, saya bukan Trotskist lo, tetapi Trotsky pernah berkata, sebagai yang pernah saya citeer-kan juga, wat is revolutie? Kata Trotsky, revolusi adalah zazende inspiratie van de geschiedenis. En dat inspiratie. Kalau engkau dapat inspirasi, kalau engkau dapat inspirasi, atau kalau engkau sendiri dapat inspirasi, atau engkau, Jeng Simorangkir, dapat inspirasi, atau engkau, Karnaredjasa, dapat inspirasi. Apa itu inspirasi? Wat is inspiratie? Kata Trotsky. Inspiratie is de ontmoeting van het bewuste en onderbewuste in de mens. Itu yang dinamakan inspirasi. De ontmoeting, pertemuan daripada het bewuste en het onderbewuste in de mens. Dat is inspiratie. Lantas dia naik, Trotsky lantas menanya, tetapi sekarang jikalau dikatakan bahwa revolusi adalah seperti satu hal yang mempunyai jiwa. Memang revolusi adalah seperti satu hal yang mempunyai jiwa, yang sebetulnya yang ada pemimpin atau tanpa ada pemimpin, ada yang menganjurkan atau tanpa ada yang menganjurkan, revolusi berjalan terus kalau ini a real revolution, bukan revolusi bikinan, bukan palace revolution, bukan putsch, bukan sekadar insurrection, kataku di dalam jawab-jawab saya tatkala aku di-landraad di Bandung.”</p><span>(Amanat Presiden Sukarno pada Malam Ramah Tamah dengan para Wartawan di Istana Bogor, 20 November 1965)</span>",
+        "taicing": "",
+        "content": "",
+        "galery":[
+          {
+            "url": "assets/img/cover/Leo-Trotzky-Pesan.jpg",
+            "caption": "<b>Pesan:</b><br>\"Kepada Presiden Sukarno, simbol kebebasan dan kemerdekaan. Dengan kekaguman besar, Jef Last.\""
+          },
+          {
+            "url": "assets/img/cover/Leo_Trotsky-galeri-01.jpg",
+            "caption": ""
+          }
+        ]
+        
+      },
+      {
+        "id": 10,
+        "date_published": "1924",
+        "writer": "Romain Rolland",
+        "foto_writer": "assets/img/cover/Romain-Rolland.jpg",
+        "description_writer": "<p>Lahir di Clamecy, Prancis pada 29 Januari 1866, Romain merupakan dramawan, novelis, dan sejarawan produktif yang memenangkan Nobel Sastra 1915. Gelar sarjana sejarahnya diperoleh dari Ecole Normale Superieure pada 1889. Luasnya pergaulannya dibuktikan dari surat-menyuratnya dengan Rabendranath Tagore, Mahatma Gandhi, Jawaharlal Nehru, Sigmund Freud, Leo Tolstoy yang dibukukan menjadi Selected Letters of Romain Rolland. Bersama filsuf Hungaria Edmund Bordeaux Szekely dia mendirikan International Biogenic Society untuk memperkenalkan dan memperluas gagasan tentang integrasi pikiran, tubuh, dan jiwa. Dia merupakan pendukung terkemuka Stalin.</p><p>Ketika meninggal pada 30 Desember 1944, dia meninggalkan banyak buku. Antara lain The People’s Theater (1902), Au-Dessus de la Melee (1915), Above the Battle (1916), Jean-Christophe Dawn Morning Youth Revolt, Pierre and Luce (1917), Mahatma Gandhi (1924)The Inner Journey (1942), Beethoven the Creator, The Life of Ramakrishna.</p>",
+        "publisher": "S-Gravenhage NV Prometheus De Gulden Sonne Antwerpen",
+        "title": "Mahatma Gandhi",
+        "cover_desktop": "assets/img/cover/Romain-Rolland-DESKTOP.jpg",
+        "cover_mobile": "assets/img/cover/Romain-Rolland-MOBILE.jpg",
+        "book_cover": "assets/img/cover/Mahatma-Gandhi-Romain-Rolland.jpg",
+        "slide_thumbnail": "assets/img/cover/Romain-Rolland-cover-book.jpg",
+        "caption_thumbnail": "",
+        "quote": "<p>“Ambil Mahatma Gandhi, lain dia punya kemarahan daripada Bung Karno. Oleh karena kepribadian Gandhi lain daripada kepribadian Bung Karno. Dan, oleh karena Gandhi tahu caranya marah agar supaya diikuti oleh rakyat. Dan, Bung Karno tahu juga caranya marah agar supaya diikuti oleh rakyat. Bung Karno mengerti, harus kadang-kadang dia mengucapkan perkataanya donder. Gandhi apa yang dia perbuat? Pernah beberapa kali Gandhi melihat di kalangan rakyat itu gontok-gontokan, sembelih-sembelihan. Ya sembelih-sembelihan. Urusan apa misalnya. Urusan sapi, saudara-saudara, sembelih-sembelihan. Orang Islam menganggap sapi itu boleh disembelih, bikin sate. Orang Hindu menganggap sapi itu binatang keramat. Nah, karena orang Hindu melihat ada sapi disembelih, wah, gontok-gontokan! Karena di sini menggontok, sana menggotok, sini gebuk, sana gebuk, sini sembelih, sana sembelih, sini bakar, sana bakar. Apa berbuat Gandhi? Dia marah dan caranya marah bagaimana? Dia berkata, saudara-saudara, sebelum gontok-gontokan ini berhenti, aku tidak akan berhenti puasa. Biar sampai mati aku puasa. Lantas Gandhi berpuasa, tidak makan. Sampai pernah dia tidak makan 23 hari. Sampai pemimpin-pemimpin yang tadinya gontok-gontokan itu datang kepada Gandhi, ya Mahatma, ampunilah kami, kami memang bersalah, gontok-gontokan. Nah, Gandhi lantas berkata, kalau demikian saya tidak akan puasa lagi, dan saya akan makan minum lagi. Caranya Gandhi!”</p><span>(Amanat Presiden Sukarno pada Peringatan Hari Pahlawan dan Pemberian Tanda Jasa Bintang Maha Putera III kepada almarhum Robert Wolter Monginsidi di Istana Negara, Jakarta 10 Novermber 1965)</span>",
+        "taicing": " ",
+        "content": "",
+        "galery":[
+          {
+            "url": "assets/img/cover/Romain_Rolland-galeri-01.jpg",
+            "caption": ""
+          },
+          {
+            "url": "assets/img/cover/Romain_Rolland-galeri-02.jpg",
+            "caption": ""
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "date_published": "1931",
+        "writer": "Jacob van Gelderen",
+        "foto_writer": "assets/img/cover/jacob-van-gelderen.jpg",
+        "description_writer": "<p>Sosialis kelahiran Amsterdam, 10 Maret 1891 ini merupakan ahli ekonomi di SDAP yang kemudian jadi bagian dari oposisi dalam SDAP. Saat bekerja di Het Weekblad yang diedit oleh F.M. Wibaut dan H. Roland Holst, Galderen aktif berkomentar soal ekonomi di Het Volk. Lewat artikel renungannya tentang &#39;Banjir Musim Semi&#39; yang diterbitkan di De Nieuwe Tijd pada 1913, Gelderen menjadi salah satu pelopor &#39;gelombang panjang&#39; di bidang ekonomi. Bersama B.H. Sajet, pada 1916 dan 1919 Galderen menerbitkan beberapa studi medis-statistik dan pada 1918 menulis artikel demografis pertamanya tentang pengaruh perang terhadap pergerakan penduduk Amsterdam.</p><p>Pada akhir 1919, Gelderen berangkat ke Hindia Belanda untuk memulai layanan statistik baru dalam Kementerian Pertanian, Industri dan Perdagangan, lalu diangkat menjadi direktur pertama Kantor Pusat  Statistik di Batavia (1925-1932). Lewat brosur De Theoretische Basis der Progressieve Wintbelasting (Batavia 1923), Galderen mengkritik argumen mantan menteri M.W.F. Treub yang saat itu menjabat sebagai ketua Indian Works Council. Menurutnya, tarif pajak perusahaan progresif –sejalan dengan pajak berdasarkan pajak penghasilan– secara teoritis dapat dibenarkan dan lebih cocok dengan situasi aktual di Hindia Belanda daripada tarif proporsional yang dianjurkan Treub. Setelah diangkat sebagai guru besar ekonomi-politik dengan pengangkatan khusus di Recht Hooge School di Batavia pada 1928, Gelderen berbalik menjadi pengkritik Marxisme, yang salah satu dituangkannya dalam artikel & quot;Deepening Marxism&quot; yang dimuat he Socialist Guide pada 1930. Di Hindia Belanda, Gelderen aktif di Partai Sosial Demokrat Hindia dan menjadi ketuanya pada 1928.</p><p>Sekembalinya ke Belanda pada 1933 dia menjadi kepala Departemen Urusan Krisis di Kementerian Koloni dan juga anggota Dewan Direktur Biro Ilmiah SDAP. Atas rekomendasi Asosiasi Sosialis untuk Studi Masalah Sosial, pada 1937 Gelderen diangkat menjadi profesor sosiologi di Fakultas Hukum Universitas Utrecht untuk menggantikan R. Kuyper. Setelah menyatakan &quot;Sudah berakhir&quot; kepada J.E. Stokvis, empat hari kemudian dia bunuh diri bersama istri dan dua anak bungsu mereka di Den Haag pada 14 Mei 1940. Gelderen meninggalkan banyak tulisan baik yang ditulis lewat nama J. Fedder maupun namanya. Bukunya antara lain The Totalitarian States Against the World Economy (1939) dan Recent Developments in Economic Foreign Policy in the Dutch East Indies (1939).</p>",
+        "publisher": "Afdeeling Batavia der Ind. Soc. Democr. Partij",
+        "title": "Wereldcrisis",
+        "cover_desktop": "assets/img/cover/Desktop---J.Van-Gelderen.jpg",
+        "cover_mobile": "assets/img/cover/Mobile-J.Van-Gelderen.jpg",
+        "book_cover": "assets/img/cover/Wereldcrisis--Prof_J_Van_Gelderen.jpg",
+        "slide_thumbnail": "assets/img/cover/Van-Gelderen-cover-book.jpg",
+        "caption_thumbnail": "",
+        "quote": "<p>“Prof, van Gelderen di dalam bukunya dengan seterang-terangnya menunjukkan perhubungan sebab akibat antara rumah tangga kami yang kocar-kacir ini dengan rendahnya upah upah di dalam pergaulan hidup kami ,—upah-upah di dalam pergaulan hidup kami yang menurut pendapatnya, bukan “Ertragslohn” tetapi “Erhaltungslohn” yakni upah yang “sekedar supaya jangan sampai mati kelaparan”,— upah yang “sekedar sama dengan ongkos-ongkos hidup yang paling rendah”!”</p><span>(Bung Karno dalam pidato pembelaannya “Indonesia Menggugat” di hadapan hakim kolonial di Landraad Bandung, 1930)</span>",
+        "taicing": "",
+        "content": "",
+        "galery":[
+          {
+            "url": "assets/img/cover/Jacob_van_Gelderen-galeri0-02.jpg",
+            "caption": ""
+          },
+          {
+            "url": "assets/img/cover/Jacob_van_Gelderen-galeri0-03.jpg",
+            "caption": ""
+          }
+        ]
+      },
+      
+      {
+        "id": 12,
+        "date_published": "1921",
+        "writer": "Henri Hubert van Kol",
+        "foto_writer": "assets/img/cover/Van-Kol.jpeg",
+        "description_writer": "<p>Henri Hubertus van Kol (1852-1925) merupakan sosialis pertama yang menginjakkan kaki di Hindia Belanda. Matan anggota First International itu memulai karirnya di Jawa sebagai insinyur hidrolik pada 1876. Sekembalinya ke Belanda, dia menjadi salah satu pendiri Partai Buruh Sosial Demokrat (SDAP). Sebagai anggota parlemen sosialis di Den Haag, dia marah terhadap eksploitasi \"rakyat Jawa yang malang\" meski sebagai pemilik perkebunan kopi Cayumas di Jawa Timur, dia mempekerjakan buruh miskin. Namun Van Kol tanpa pamrih memberikan sebagian keuntungan dari perkebunannya kepada gerakan buruh Belanda dan perwakilannya. Perkebunannya memperkenalkan hari Minggu sebagai hari istirahat, dan mendirikan sekolah dan gereja, yang membuatnya dianggap sebagai penanda kemajuan sosial di mata orang Belanda.</p><p>Van Kol melakukan perjalanan studi di Nusantara selama berbulan-bulan pada 1902. Dia memfoto pemandangan, pasar, dan orang-orang untuk diperlihatkan kepada sesama anggota Parlemen sebagai bukti. Perjalanan itu berakhir di perkebunan Cayumas, tempat dia menulis draf laporannya. Setahun kemudian (1903), laporannya diterbitkan dengan  From Our Colonies.</p><p>Van Kol menggambarkan daerah-daerah yang dikunjunginya lengkap berikut stereotip pada karakter masing-masing seperti \"orang Jawa malas,\" atau \"orang Ambon tidak jujur dan memanjakan diri sendiri.\"  Namun Van Kol tak hanya bersafari ke Nusantara. Hingga masa senjanya dia tetap berkeliling ke banyak tempat. Bukunya antara lain From Our Colonies (1903) dan Japan: Impressions of Country and People (1917).</p>",
+        "publisher": "WL & J. Brusse's Uitgeversmaatschappij",
+        "title": "Oud En Nieuw Japan Grepen Uit Het Leven",
+        "cover_desktop": "assets/img/cover/VAN-KOL-DESKTOP.jpg",
+        "cover_mobile": "assets/img/cover/VAN-KOL-MOBILE.jpg",
+        "book_cover": "assets/img/cover/Oud-En-Nieuw-Japan_Grepen_Uit_Het_Leven--HH_Van_Kol.jpg",
+        "slide_thumbnail": "assets/img/cover/Van-Kol-cover-book.jpg",
+        "caption_thumbnail": "",
+        "quote": "<p>“Man totet den Geist nicht”, begitulah Freiligrath menyairkannya,–“ orang tak bisa membunuh semangat”! Di dalam tahun 1900, yakni sebelum di sini ada “ophitsers”, sebelum di sini ada “raddraaiers”, Ir. Van Kol sudah mendengungkan peringatannya di dalam Tweede Kamer demikian: “Teruslah……..sampai sekali waktu tiba akhirnya; sekali waktu, siapa tahu entah kapan, pasti meledak kekuatan rahasia” Dan sesungguhnya, “kekuatan rahasia” itu sudah meledak! Seluruh dunia sekarang melihat bangkit dan bergeraknya kekuatan rahasia itu!” </p><span>(Bung Karno mengutip J.S. Bartstra, <em>“Geschiedenis van het Moderne Imperialisme”</em> dalam pidato pembelaannya “Indonesia Menggugat” di hadapan hakim kolonial di Landraad Bandung, 1930)</span>",
+        "taicing": "",
+        "content": "",
+        "galery":[
+          {
+            "url": "assets/img/cover/Henri_Hubert_van_Kol-galeri-02.jpg",
+            "caption": ""
+          },
+          {
+            "url": "assets/img/cover/Henri_Hubert_van_Kol-galeri-01.jpg",
+            "caption": ""
+          },
+          {
+            "url": "assets/img/cover/Henri_Hubert_van_Kol-galeri-03.jpg",
+            "caption": ""
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "date_published": "1934",
+        "writer": "Pierre Nezelof",
+        "foto_writer": "assets/img/cover/person.jpg",
+        "description_writer": "<p>Pierre Nezlof merupakan imigran asal Rusia yang tiba dan tinggal di Dunkirk pada 1880-an. Saat bekerja di Kementerian Pendidikan Umum dan Seni Murni, dia bertemu Irma/Irene Bouttier, keturunan petani anggur lama di Barrou. Keduanya lalu menikah dan tinggal di rumah orangtua Irene. Di rumah itulah putra tunggal mereka yang kelak menjadi patologis terkenal, Christian Nezelof, dilahirkan pada 19 Januari 1922.</p><p>Banyaknya waktu senggang di tempat kerjanya dimanfaatkan Pierre untuk mendalami minatnya pada sejarah dan menjadi penulis lepas. Dia menulis cerpen dan novel mini untuk dikirimkan ke berbagai koran dan majalah. Nama Pierre pun tenar sebagai sejarawan dan penulis. Berkat tulisan-tulisannya, Pierre mengenal banyak orang. Salah satunya, Georges Bidault yang kemudian menjadi perdana menteri. Buku-buku Pierre antara lain novel Little Eagle, Josephine, the Great Lover (1929), La Vie Joyeuse et Tragique de Marie-Antoinette (The Joyful and Tragic Life of Marie-Antoinette) (1933), The Merry Queen: An Historical Story of the Happy and Tragic Life of Marie Antoinette (1934), Mirabeau: Homme d’Amour, Homme d’Etat (Mirabeau: Man of Love, Statesman) (1937), Napoleon and His Son (1937), Marie-Antoinette (1944).”</p>",
+        "publisher": "Albin Michel",
+        "title": "Mirabeau",
+        "cover_desktop": "assets/img/cover/PIERRE-NEZELOP-DESKTOP.jpg",
+        "cover_mobile": "assets/img/cover/PIERRE-NEZELOP-MOBILE.jpg",
+        "book_cover": "assets/img/cover/Mirabeau-Pierre_Nezelof.jpg",
+        "slide_thumbnail": "assets/img/cover/Pierre-Nezelof-cover-book.jpg",
+        "caption_thumbnail": "",
+        "quote": "<p>“Kalau saya bicarakan proloog daripada Revolusi Prancis ini, wah lantas saya harus sebut pemikir-pemikir yang mendahului Revolusi Prancis itu. Menyebut Voltaire, menyebut Jean Jacques Rousseau, menyebut Montesquieu. Kalau dihitung zamannya Rousseau, zamannya Voltaire, zamannya Montesquieu, Revolusi Prancis ini makan waktu, boleh dikatakan 100 tahun. Tetapi yang sekarang saya tanya kepadamu, apakah kamu melihat Revolusi Prancis ini sebagai satu aliran tenang, smooth, licin? Tidak! Revolusi Prancis ini terjadi dengan goncangan-goncangan yang mahadashyat. Zamannya Mirabeau, tatkala Mirabeau di tahun 1789 di Kaatsbaan, de eed op de Kaatsbaan, pertama kali menentang raja. Dan pada hari itu Mirabeau dengan kawan-kawannya berkumpul di Kaatsbaan. Dan Raja Lodewijk XVI mengetahui bahwa Mirabeau ini is going to do something. Lantas raja mengutus orang ke Kaatsbaan, memerintahkan kepada Mirabeau supaya bubar, tinggalkan Kaatsbaan, tidak boleh kumpul di sini. Pertama di dalam sejarah Prancis ada orang berkata, yaitu Mirabeau sendiri berkata kepada utusan raja ini, kembalilah, dan katakan kepada orang yang menyuruh engkau: raja, bahwa kami tidak akan meninggalkan tempat ini, kecuali dengan kekuasaan bayonet. Yaitu, mencetuskan Revolusi Prancis. Kami tidak mau keluar dari sini, kecuali diusir dengan kekuasaan bayonet”</p><span>(Amanat Presiden Sukarno pada Sidang Panca Tunggal Seluruh Indonesia di Istana Negara, Jakarta, 23 Oktober 1965)</span>",
+        "taicing": "",
+        "content": "",
+        "galery":[
+          {
+            "url": "assets/img/cover/Pierre-Nezelop-galeri-01.jpg",
+            "caption": ""
+          },
+          {
+            "url": "assets/img/cover/Pierre-Nezelop-galeri-02.jpg",
+            "caption": ""
+          },
+          {
+            "url": "assets/img/cover/Pierre-Nezelop-galeri-03.jpg",
+            "caption": ""
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "date_published": "",
+        "writer": "Hendrik de Man",
+        "foto_writer": "assets/img/cover/Hendrik-de-man.jpg",
+        "description_writer": "<p>Politikus sosialis kelahiran 17 November 1885 ini merupakan teoretikus sosialis terkemuka. Sempat mengajar sosiologi di University of Washington, dia kembali ke Belgia untuk memulai pendidikan buruh dan akhirnya ke Jerman untuk mengajar di University of Frankfurt. Dia kembali ke Belgia dan berhasil menapaki karier hingga puncak di Partai Buruh. Dari 1936 hingga 1938 dia dipercaya menjadi menteri keuangan. Seorang antisemit namun beristri Yahudi, Henri terlibat dalam invasi Jerman-Nazi atas Belgia.</p><p>Revisinya terhadap Marxisme sempat kontroversial, Henri menawakan gagasan baru “Planisme” alias perencanaan. Planisme membantah sosialisasi alat-alat produksi dan pembangunan masyarakat tanpa kelas Marxisme, dan mendorong sektor swasta agar dibebaskan dari monopoli negara. Gagasannya amat berpengaruh terutama pada Gerakan Non-Konformis –sering disebut Jalan Ketiga–  di Prancis pada awal 1930-an. Setelah meninggal dalam pembuangan di Paris pada 1983, dia mewariskan banyak buku. Antara lain: Beyond Marxism (1927), Socialisme et Marxisme (1928), Reflections on the Directed Economy (1932), For an Action Plan (1934), dan memoarnya Apres Coup (1941).</p>",
+        "publisher": "",
+        "title": "De socialistische idee",
+        "cover_desktop": "assets/img/cover/HENDRIK-DE-MAN-DESKTOP.jpg",
+        "cover_mobile": "assets/img/cover/HENDRIK-DE-MAN-MOBILE.jpg",
+        "book_cover": "assets/img/cover/HENDRIK-DE-MAN-book-cover.jpg",
+        "slide_thumbnail": "assets/img/cover/Hendrik-de-man-slide.jpg",
+        "caption_thumbnail": "",
+        "quote": "<p>“Aliran kanan, saudara-saudara, dipimpin oleh misalnya Hendrik de Man. Hendrik de Man yaitu pemimpin sosialis kanan di Belgia. Hendrik de Man itu menentang aliran Pieter Jelles Troelstra, menentang aliran massa aksi, menentang aliran yang selalu bergembar-gembor oorlog. Oleh karena itu menurut analisa Troelstra, oorlog, perang adalah bikinan kapitalis. Oorlog aan de oorlog. Hendrik de Man juga selalu berkata, Troesltra, jij ben altijd negatief.”</p><span>(Amanat Presiden Sukarno di Hadapan Panca Tunggal Seluruh Indonesia di Istana Negara, 2 September 1966)</span>",
+        "taicing": "",
+        "content": "",
+        "galery":[
+          {
+            "url": "assets/img/cover/Cover2-HendrikDaMan-gal1.jpg",
+          "caption": "<b>Halaman Judul:</b><br>\"Tanda tangan asli Sukarno.\""
+          },
+          {
+            "url": "assets/img/cover/HendrikDaMan.jpg",
+            "caption": "<b>Halaman ?:</b><br>\"Baik, tetapi kita sepakat untuk memberi nama Indonesia kepada wilayah itu.\""
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "date_published": "1932",
+        "writer": "Henriette Roland Holst",
+        "foto_writer": "assets/img/cover/Henriete-Rolland-Holst.jpg",
+        "description_writer": "<p>Henriette Roland Holst atau Henriette Goverdina Anna van der Schalk lahir pada 24 Desember 1869 di Noordwijk, Belanda. Ia seorang sosialis militan sekaligus penyair dan penulis terkemuka pada paruh pertama abad ke-20. Karya-karyanya berkontribusi besar pada sastra modern Belanda.</p><p>Henriette terpengaruh Das Kapital-nya Karl Marx dan kemudian bergabung dengan Sociaal Democratische Arbeiders Partij (SDAP/Partai Sosial Demokrat Belanda). Ia menjadi salah satu propagandis utama partai. Sempat menarik diri dari politik pada 1912, ia kembali aktif karena menentang Perang Dunia I. Pada 1918, ia ikut mendirikan Partai Komunis Belanda. Melalui puisi dan pemikiran anti-Nazinya, ia mempengaruhi gerakan perlawanan Belanda selama Perang Dunia II. Ia meninggal pada 21 November 1952 di Amsterdam.</p><p>Dua volume puisinya, De Nieuwe Geboort (1902) dan Opwaartsche Wegen (1907) mencerminkan cita-cita politik Henriette. Ia juga menulis biografi tokoh-tokoh terkemuka seperti Jean-Jacques Rousseau (1912), Leo Tolstoy (1930), Romain Rolland (1946), dan Mahatma Gandhi (1947). Karya teoretisnya yang utama terbit pada 1902, berjudul Kapitaal en Arbeid (Capital and Labour).<p>",
+        "publisher": "WL & J. Brusse's Uitgeversmaatschappij",
+        "title": "Kapitaal En Arbeid In Nederland",
+        "cover_desktop": "assets/img/cover/Henrriete-Roland-Holst-DESKTOP.jpg",
+        "cover_mobile": "assets/img/cover/Henrriete-Roland-Holst-MOBILE.jpg",
+        "book_cover": "assets/img/cover/kapitaal_nederland-H_Roland.jpg",
+        "slide_thumbnail": "assets/img/cover/H-Holland-Holst-cover-book.jpg",
+        "caption_thumbnail": "",
+        "quote": "<p>“ Bukan oleh karena negara Belanda tak mempedulikan kepentingan kaum pemodal partikelirnya, bukan oleh karena kepentingan negara itu lebih ditinggikan dari kepentingan borjuis, tetapi tak lain tak bukan ialah karena borjuis Belanda pada masa itu butuh pada cultuurstelsel itu sebagai pembayar segala yang perlu diadakan lebih dulu bagi suburnya kapitalisme di negeri Belanda sendiri! Henriette Roland Holst di dalam bukunya “Kapital en Arbeid in Nederland” menuliskan seperti berikut: “Perbuatan kaum borjuis disekitar tahun lima puluh adalah praktis dan menunjukkan kesadaran kelas yang sehat, yakni perbuatan mereka tidak melemparkan cultuurstelsel ke sudut, sebelum mereka mengambil daripadanya segala yang bisa diambilnya…..Ada bahaya, bahwa orang-orang yang tidak sabar dan lekas mau maju, terlalu lekas mau memberikan orang Jawa berkah-berkah pekerjaan liberal dan menggantikan cultuurstelsel, warisan otokrasi itu, dengan inisiatif pertikelir. Tetapi mungkin beberapa orang berpendapat demikian, –borjuis pada umumnya mengetahui. Sebagai golongan, mereka itu terutama merasa berkepentingan dalam hal, pertama, pelunasan utang. Kedua, liberalisasi perdagangan dan perusahaan dengan mengurangi bea bea dan pajak-pajak, yang hanya bisa terlaksana oleh yang tersebut dibawah! Ketiga, pembikinan jalan-jalan kereta-api dan jalan-jalan air dengan tidak membebani rakyat dengan ongkos-ongkos yang besar, suatu hal yang tentu akan mengobarkan semangat konsevatisme pada orang-orang Belanda yang selalu hemat itu. Semua ini perlu, sebelum bisa dimulai eksploitasi pertikelir di Hindia, sebab kredit nasional, jalan-jalan kereta-api dan pelabuhan pelabuhan di negeri Belanda, harus menjadi tumpuan eksploitasi itu. Semua hal yang baik-baik itu didapat dari keuntungan keuntungan Hindia, jadi keuntungan-keuntungan Hindia buat sementara harus tetap ada.”</p>",
+        "taicing": "",
+        "content": "",
+        "galery":[
+          {
+            "url": "assets/img/cover/Henriette_Roland Holst-galeri-01.jpg",
+            "caption": ""
+          },
+          {
+            "url": "assets/img/cover/Henriette_Roland Holst-galeri-02.jpg",
+            "caption": ""
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "date_published": "1925",
+        "writer": "H.T. Colenbrander",
+        "foto_writer": "assets/img/cover/HT-Colenbrander-oke.jpg",
+        "description_writer": "",
+        "publisher": "S'Gravenhage : Martinus Nijhoff",
+        "title": "Koloniale Geschiedenis",
+        "cover_desktop": "assets/img/cover/COLENBRANDER-DESKTOP.jpg",
+        "cover_mobile": "assets/img/cover/COLENBRANDER-MOBILE.jpg",
+        "book_cover": "assets/img/cover/Koloniale_Geshiendenis--HT_Colenbrander.jpg",
+        "slide_thumbnail": "assets/img/cover/Koloniale-Geshiendenis__HT._Colenbrander.jpg",
+        "caption_thumbnail": "",
+        "quote": "<p>“Oleh karena itu, sekali lagi, maafkanlah berhubung dengan cultuurstelsel itu, kami mengulangi pendapat-pendapat satu dua kaum intelektual Eropa yang ternama: “Kompeni itu mengusai raja-raja dan kaum bangsawan dan membebaninya dengan kewajiban-kewajiban, yang oleh mereka itu dijatuhkannya lagi diatas pundak rakyat. Kompeni itu lebih rendah serakah daripada kejam, tetapi akibatnya adalah sama: Penindasan!”, begitulah Prof. Colenbrander menulis dan Prof. Veth berkata: “Kekejaman tidak menjadi sifat jeleknya yang biasa tetapi……keserakahannya yang picik barangkali lebih banyak merusak daripada kekejamannya. Bahkan kebuasan Nero hanya mencelakakan sedikit orang yang berdekatana dengan dia, kesejahteraan propinsi-propinsi tidak diganggu-gugatnya; tapi suatu pemerintahan yang jelek peraturannya, adalah suatu bencana umum Jadi, tidak selamanya “kejam”, tidak selamanya “wreed” ? Tetapi toh sering kejam dan buas. Marilah kita bacakan lagi Colenbrander tentang penaman monopoli di Ambon dan Banda: “Coen (Jan Pieterszoon Coen, Sk.) didalam seluruh perkara ini, yang menodai namanya, telah bertindak dengan kelemahan yang meluar batas kemanusiaan, kekejaman yang kelewatan bahkan dalam mata hamba-hamba Kompeni sendiri……. Sampai-sampai Kuasa-kuasa Kompeni pun sama terkejut membaca cerita-cerita hukuman mati yang diceritakan dengan tenang oleh Coen didalam surat-suratnya….”Itu benar membikin takut, tapi tidak menerbitkan kasih”…”</p><span>(Bung Karno mengutip Koloniale Geschiedenis  karya Dr. H.T. Colenbrander dalam pidato pembelaannya di muka hakim kolonial Landraad, Bandung, 1930)</span>",
+        "taicing": "",
+        "content": "",
+        "galery":[
+          {
+            "url": "assets/img/cover/Koloniale Geschiedenis. H.T. Colenbrander-galeri-01.jpg",
+            "caption": "<b>Halaman Judul:</b><br>\"Tanda tangan asli Sukarno.\""
+          },
+          {
+            "url": "assets/img/cover/Koloniale Geschiedenis. H.T. Colenbrander-galeri-02.jpg",
+            "caption": "<b>Halaman 10:</b><br>\"Tidak menghiraukan liberalisme oleh Capellen, dia tahan dengan tanaman paksa.\"<br>\"Fase keempat dari imperialisme belum lahir saat itu.\""
+          },
+          {
+            "url": "assets/img/cover/Koloniale Geschiedenis. H.T. Colenbrander-galeri-03.jpg",
+            "caption": "<b>Halaman 13:</b><br>\"Pencobaan untuk menstimulasi industri tekstil Belanda dan membunuh persaingan Inggris.\"<br>\"Fase ketiga dari imperialisme.\""
+          },
+          {
+            "url": "assets/img/cover/Colenbrander-galeri.jpg",
+            "caption": "<b>Halaman 179:</b><br>Residensi Bali dan Lombok. Terus-menurus masalah dengan kerajaan lain."
+          }
+        ]
+      },
+      {
+        "id": "x5",
+        "date_published": "1921",
+        "writer": "Johan Herman Carp",
+        "foto_writer": "assets/img/cover/Johan_Herman_Carp.jpg",
+        "description_writer": "<p>Johan Herman Carp merupakan filsuf, pengacara sekaligus tokoh nasionalis Belanda yang lahir pada 19 Juli 1893. Ia mendapat gelar doktor dari Universitas Leiden pada 1921 dengan disertasi tentang Bolshevisme. Dia menjadi editor di Majalah De Waag pada 1939.</p><p>Carp merupakan spesialis hukum publik dan akademisi anti-komunis. Pada Juni 1940, Carp bergabung dengan Nationaal-Socialistische Beweging, gerakan fasis yang kemudian menjadi partai politik Belanda dengan ideologi Nazisme.</p><p>Ketika meninggal dunia pada 18 November 1979, Carp meninggalkan banyak karya. Tulisan-tulisannya, terutama tentang filsafat Baruch Spinoza, banyak termuat di Chronicon Spinozanum, buku tahunan organisasi internasional Societas Spinoza. Ide-ide politiknya yang telah dikembangkan sejak 1920-an termuat dalam karya besarnya Beginselen van Nationaal-Socialisme (Principles of National Socialism).</p>",
+        "publisher": "s-Gravenhage Martinus Nijhoff",
+        "title": "Het Bolsjewisme",
+        "cover_desktop": "assets/img/cover/JOHAN-HERMAN-CARP-DESKTOP.jpg",
+        "cover_mobile": "assets/img/cover/JOHAN-HERMAN-CARP-MOBILE.jpg",
+        "book_cover": "assets/img/cover/Het_Bolsjewisme--Mr_J_H_Carp.jpg",
+        "slide_thumbnail": "assets/img/cover/Het-Bolsjewisme_Mr-J-H-Carp.jpg",
+        "caption_thumbnail": "",
+        "quote": "<p>“”</p>",
+        "taicing": "",
+        "content": "",
+        "galery":[
+          {
+            "url": "https://picsum.photos/400/300?random=51",
+            "caption": "caption1"
+          }
+        ]
+      },
+      {
+        "id": "x6",
+        "date_published": "1954",
+        "writer": "Jan Romein",
+        "foto_writer": "assets/img/cover/Jan-Romein.jpg",
+        "description_writer": "<p>Jan Marius Romein yang lahir di Rotterdam, 30 Oktober 1893 merupakan sejarawan dan wartawan yang buku-bukunya diterjemahkan ke dalam sedikitnya enam bahasa. Aktivitas menulis Romein dimulai ketika dia kuliah humaniora di Universitas Leiden. Antara 1916-1918, Romein menerjemahkan 10 volume novel Jean Christophe karya Romain Rolland. Ketertarikannya pada Marxisme terjadi setelah dia terkesan pada Perang Dunia I dan Revolusi Oktober 1917 di Rusia. Dia menerjemahkan biografi Karl Marx karya Franx Mehring ke dalam bahasa Belanda. Sepulang dari Denmark, Romein dan Annie Romein-Verschoor, sejarawan yang dinikahinya pada 14 Agustus 1920, menetap di Amsterdam. Romein menjadi editor harian De Tribune milik Partai Komunis Belanda, dan penulis lepas serta penerjemah.</p><p>Mendapat doktor dari Universitas Leiden pada 1924, Romein keluar dari Partai Komunis pada 1927. Dia lalu menulis Eastern Roman Empire. Salah satu buku terpentingnya ditulis bersama istrinya, yakni The Low Countries (1934) dan empat volume sejarah Belanda yang ditulis dalam rentang 1938-1940. Romein diangkat menjadi profesor sejarah di Universitas Amsterdam pada 1939. Sempat ditahan Gestapo ketika Belanda diduduki Jerman-Nazi, Romein selamat. Pada 1946, dia menulis untuk Het Parool profil Anne Franck beserta catatan hariannya, yang diberikan istrinya setelah gagal menerbitkan. Artikelnya mendapat banyak pembaca sehingga catatan harian Anne diterbitkan setahun kemudian. Namun, ideologi kirinya membuatnya ditolak masuk Amerika Serikat pada 1949 akibat konsepsi Marxisnya dalam konferensi ilmiah di Princeton. Romein lalu menjadi profesor tamu di Indonesia. Pandangan kiri Romein yang tak dogmatis mendorongnya mengkritik keras tindakan keras Uni Soviet terhadap pemberontakan di Hungaria (1956), sekeras kritiknya terhadap keterlibatan Prancis-Inggris dalam Krisis Suez.</p><p>Ketika meninggal dunia pada 16 Juli 1962, Romein yang berjasa mengembangkan ilmu sejarah meninggalkan warisan banyak buku. Antara lain: Dostoyevsky in the Eyes of Western Critics, History of the Northern Dutch Historiography during the Middle Ages, The Low Lands by the Sea. An Illustrated History of the Dutch People from Dunkirk to Delfzyl, Legators of Our Civilization. Dutch Figures from Six Centuries (bersama Annie Verschoor), Theoretical History, Apparatus for the Study of History, In the Court of History. A Short Encyclopedia of Theoretical History, Kebangunan Asia, Pengertian Kerdja di Timur dan Barat, Asia Bergolak (bersama WF Wertheim), The Asian Century: A History of Modern Nationalism in Asia (bersama Jan Erik Romein), History of Mankind: Culture and Scientific Development.</p>",
+        "publisher": "EJ Brill",
+        "title": "Aera Van Europa",
+        "cover_desktop": "assets/img/cover/Desktop-Jan-Romein.jpg",
+        "cover_mobile": "assets/img/cover/Mobile-Jan-Romein.jpg",
+        "book_cover": "assets/img/cover/Aera_Van_Europa-Jan_Romein.jpg",
+        "slide_thumbnail": "assets/img/cover/Aera-Van-Europa_Jan-Romein.jpg",
+        "caption_thumbnail": "",
+        "quote": "",
+        "taicing": "",
+        "content": "",
+        "galery":[
+          {
+            "url": "https://picsum.photos/400/300?random=61",
+            "caption": "caption1"
+          }
+        ]
+      },
+      {
+        "id": "x11",
+        "date_published": "1935",
+        "writer": "Sidney & Beatrice Webb",
+        "foto_writer": "assets/img/cover/Sydney-&-Beatrice-Webb.jpg",
+        "description_writer": "<p>Sidney James Webb (lahir di London, 13 Juli 1859) dan Martha Beatrice Webb (lahir di Gloucestershire, 22 Januari 1858) merupakan suami-istri yang menjadi sejarawan terkemuka sekaligus ahli ekonomi Sosialis Inggris. Keduanya dikenal sebagai pionir penelitian sosial dan reformasi sosial-ekonomi, juga ikut mendirikan London School of Economic and Political Science. Sebagai anggota awal lembaga sosialis Fabian Society dan bertugas di pemerintahan sebagai perwakilan Partai Buruh, Sidney ikut menata ulang Universitas London jadi federasi lembaga pengajaran. Ketika bertugas di London County Council (1892-1910), Sidney menciptakan sistem sekolah menengah negeri dan juga beasiswa untuk siswa SD.</p><p>Setelah menikah, mereka tinggal di London dan keluar dari pekerjaan untuk fokus pada kerjaan riset sosial dan politik. Selain hidup dari warisan yang diterima Beatrice, mereka hidup dari hasil menulis buku dan mengirim artikel ke berabagai media massa. Karya kolaborasi pertama keduanya adalah dua volume The History of Trade Unionism (1894). Tiga tahun kemudian, mereka menghasilkan dua jilid Industrial Democracy. Keduanya tak meninggalkan anak ketika meninggal (Beatrice meninggal tahun 1943, Sidney 1947). Warisan keduanya hanyalah sederet karya tulis. Buku-buku mereka antara lain: Theory and Practice of the British Trade Union, sembilan volume English Poor Law Policy, A Constitution for the Socialist Commonwealth of Great Britain, The Co-Operative Movement in Great Britain (Beatrice Webb, 1891), Our Partnership (Beatrice Webb), The Webbs in Asia: The 1911-12 Travel Diary (Sidney Webb & George Feaver), Soviet Communism: A New Civilisation? (1935).</p>",
+        "publisher": "Longmans, Green, and Co., 39 Paternoster Row",
+        "title": "Soviet Communism : A New Civilisation",
+        "cover_desktop": "assets/img/cover/Sidney_&_Beatrice Webb_DESKTOP.jpg",
+        "cover_mobile": "assets/img/cover/Sidney_&_Beatrice Webb_MOBILE.jpg",
+        "book_cover": "assets/img/cover/Soviet_Communism_A_New_Civilisation--Sidney_&_Beatrice_Webb.jpg",
+        "slide_thumbnail": "assets/img/cover/Soviet-Communism---A-New-Civilisation_Sidney-&-Beatrice-Webb.jpg",
+        "caption_thumbnail": "",
+        "quote": "contoh quote",
+        "taicing": "11",
+        "content": ""
+      },
+      {
+        "id": "x12",
+        "date_published": "1912",
+        "writer": "Johann Friedrich Scheltema",
+        "foto_writer": "https://picsum.photos/300/300?random=1",
+        "description_writer": "<p>J.F Scheltema (-1922) merupakan orientalis Belanda kelahiran Makassar tahun 1855. Ayahnya mantan kepala pengadilan di Batavia yang kemudian menjadi profesor di Universitas Leiden. Setelah studi di Haarlem dan Amsterdam, dia studi navigasi setahun dan kembali ke Hindia Belanda sebagai pelayar. Pada 1883, dia terjun ke dunia jurnalistik dan ditempatkan di Tonking, tempat dia terluka sebagai koresponden/reporter perang. Dia berkeliling dunia dalam periode ini dan menjadi editor di berbagai media sebelum masuk De Locomotief. Aktivitas itu dilakoninya hingga 1903 ketika dia dipenjara karena artikelnya yang menyoroti kebijakan opium pemerintah kolonial.</p><p>Setelah bebas, Scheltema pindah ke Amerika. Dia kuliah di Yale University dan mendapat gelar Master of Arts setahun kemudian. Sebagai bentuk kepeduliannya terhadap almamaternya, dia menyumbangkan rumahnya di Tuhrston County kepada kampus guna dipakai untuk dana pembelian buku-buku terkait hubungan Barat-Timur. Dia tetap aktif menulis dan mengirimkan ke majalah. Bukunya yang paling terkenal, Monumental Java, dia selesaikan pada 1912. Sementara buku pertamanya, Tjampoeran, dia tulis dalam periode keliling dunianya. Saat meninggal di Surrey, Inggris pada 1922, Scheltema telah menuliis beberapa buku: Tjampoeran (1895), Als Kaf voor den Wind (Like Chaff before the Wind, 1899), Ja en Neen (Yes and No, 1902), Java (1912), Monumental Java (1912), The Lebanon in Turmoil: Syria and the Powers in 1860 (1920).</p>",
+        "publisher": "Macmillan and Co., Limited St. Martin's Street, London",
+        "title": "Monumental Java",
+        "cover_desktop": "assets/img/cover/Scheltema-DESKTOP.jpg",
+        "cover_mobile": "assets/img/cover/Scheltema-MOBILE.jpg",
+        "book_cover": "assets/img/cover/Monumental_Java--J_F_Scheltema_MA.jpg",
+        "slide_thumbnail": "assets/img/cover/Monumental-Java_JF-Scheltema-MA.jpg",
+        "caption_thumbnail": "",
+        "quote": "contoh quote",
+        "taicing": "12",
+        "content": ""
+      },
+      {
+        "id": "x13",
+        "date_published": "1930",
+        "writer": "Bernardus Dirk Eerdmans",
+        "foto_writer": "assets/img/cover/B_D_Eerdmans.jpeg",
+        "description_writer": "<p>B.D. Eerdmans yang lahir pada 24 April 1968 merupakan pastor sekaligus profesor dan politikus Liberale Unie en de Liberale Staatspartij. Saat kuliah teologi di Universitas Leiden dia juga menjadi anggota Theological Collegium Quisque Suis Viribus. Doktornya diraih pada 1891 dengan disertasi Melek Service and Worship of Heavenly Bodies in Israel’s Assyrian Period. Setelah itu dia aktif sebagai profesor teologi di Universitas Leiden hingga September 1938.</p><p>Eerdmans termasuk sarjana kritis awal dalam teologi dengan basis pendekatan religion history. Dia mengkritik beberapa hal dalam Kisah Yusuf karya Wellhausen. Ketika meninggal pada 29 April 1948, Eerdmans menginggalkan beberapa buku. Antara lain:  Composition of Genesis (1908), empat volume Old Testament Studies (1908), The Religion of Israel (1930).</p>",
+        "publisher": "Huis ter Heide, de Wachttoren",
+        "title": "De Godsdienst Van Israel",
+        "cover_desktop": "assets/img/cover/Desktop-B.D.Eerdmans.jpg",
+        "cover_mobile": "assets/img/cover/Mobile-B.D.Eerdmans.jpg",
+        "book_cover": "assets/img/cover/De_Godsdienst_Van_Israel-Dr_B_D_Eerdmans.jpg",
+        "slide_thumbnail": "assets/img/cover/De-Godsdienst-Van-Israel_Dr-B-D-Eerdmans.jpg",
+        "caption_thumbnail": "",
+        "quote": "contoh quote",
+        "taicing": "13",
+        "content": ""
+      },
+      {
+        "id": "x15",
+        "date_published": "1921",
+        "writer": "Sadhu TL Vaswani",
+        "foto_writer": "assets/img/cover/TL-Vaswani.jpg",
+        "description_writer": "<p>Sebagai anak zaman ketika patriotisme menampilkan diri dalam bentuk perjuangan kemerdekaan dari kolonialisme, Sadhu Vaswani terkenal sebagai guru, pejuang nasionalis India, dan humanis yang memadukan nilai-nilai tradisional India dan nilai-nilai humanisme Barat. Nilai-nilai tradisi diperolehnya sejak kecil, terutama sejak belajar Upanishads dari seorang brahmana bernama Brahmabandhav Upadhyay. Sedangkan nilai-nilai Barat diperolehnya dari bangku kuliah, di University of Bombay.</p><p>Lahir di Hyderabad-Sindh pada 25 November 1879, Vaswani usai lulus kuliah memulai perjuangannya setelah meminta izin pada ibunya bahwa akan aktif sebagai pelayan Dewa (Tuhan) dan manusia. Sebagai kompromi terhadap keinginan ibunya yang ingin dia sukses dalam hidup, Vaswani mengajar di Union Academy, kemudian menjadi profesor sejarah dan filsafat di Metropolitan College di Calcuta, tempat dia bertemu guru Sri Promotholal Sen.</p><p>Pada 1910, Vaswani menghadiri World Congress of Religions di Berlin mewakili India. Pidatonya berisi tentang Atman (jiwa), pesan perdamaian, kemerdekaan, dan perbaikan India. Setelah menjadi profesor filsafat di Karachi, dia bergabung dengan Mahatma Gandhi dalam gerakan kemerdekaan India. namun karier cemerlangnya di dunia akademis dia tinggalkan setelah kematian ibunya, seiring dengan perjalanan spiritualnya. Dia fokus pada perjuangan kemerdekaan dan kemanusiaan serta alam (hewan dan tumbuhan). Dia lalu menelurkan Gerakan Mira yang pada 1949 institusinya didirikan, St. Mira’s School. Setelah kematiannya pada 16 Januari 1966, perjuangan Vaswani diperingati tiap tahun lewat Sadhu Vaswani Mission.  Sebagai intelektual, Vaswani amat produktif. Buku-bukunya antara lain: Apostles of Freedom, Awake, India’s Adventure, India in Chains, Builders of Tomorrow, dan My Motherland.</p>",
+        "publisher": "Ganesh & Co Madras",
+        "title": "The Spirit and Struggle Of Islam",
+        "cover_desktop": "https://picsum.photos/1015/540?random=15",
+        "cover_mobile": "https://picsum.photos/540/540?random=15",
+        "book_cover": "assets/img/cover/The_Spirit_and_Struggle_Of_Islam--TL_Vaswani.jpg",
+        "slide_thumbnail": "assets/img/cover/The-Spirit-and-Struggle-Of-Islam__TL-Vaswani.jpg",
+        "caption_thumbnail": "",
+        "quote": "contoh quote",
+        "taicing": "15",
+        "content": ""
+      },
+      {
+        "id": "x21",
+        "date_published": "",
+        "writer": "21",
+        "foto_writer": "https://picsum.photos/300/300?random=1",
+        "description_writer": "",
+        "publisher": "21",
+        "title": "21",
+        "cover_desktop": "https://picsum.photos/1015/540?random=21",
+        "cover_mobile": "https://picsum.photos/540/540?random=21",
+        "book_cover": "https://picsum.photos/400/600?random=2",
+        "slide_thumbnail": "https://picsum.photos/400/600?random=21",
+        "caption_thumbnail": "",
+        "quote": "contoh quote",
+        "taicing": "",
+        "content": ""
+      },
+      {
+        "id": "x22",
+        "date_published": "",
+        "writer": "22",
+        "foto_writer": "https://picsum.photos/300/300?random=1",
+        "description_writer": "",
+        "publisher": "22",
+        "title": "22",
+        "cover_desktop": "https://picsum.photos/1015/540?random=22",
+        "cover_mobile": "https://picsum.photos/540/540?random=22",
+        "book_cover": "https://picsum.photos/400/600?random=2",
+        "slide_thumbnail": "https://picsum.photos/400/600?random=22",
+        "caption_thumbnail": "",
+        "quote": "contoh quote",
+        "taicing": "",
+        "content": ""
+      },
+      {
+        "id": "x23",
+        "date_published": "",
+        "writer": "23",
+        "foto_writer": "https://picsum.photos/300/300?random=1",
+        "description_writer": "",
+        "publisher": "23",
+        "title": "23",
+        "cover_desktop": "https://picsum.photos/1015/540?random=23",
+        "cover_mobile": "https://picsum.photos/540/540?random=23",
+        "book_cover": "https://picsum.photos/400/600?random=2",
+        "slide_thumbnail": "https://picsum.photos/400/600?random=23",
+        "caption_thumbnail": "",
+        "quote": "contoh quote",
+        "taicing": "",
+        "content": ""
+      },
+      {
+        "id": "x25",
+        "date_published": "",
+        "writer": "25",
+        "foto_writer": "https://picsum.photos/300/300?random=1",
+        "description_writer": "",
+        "publisher": "25",
+        "title": "25",
+        "cover_desktop": "https://picsum.photos/1015/540?random=25",
+        "cover_mobile": "https://picsum.photos/540/540?random=25",
+        "book_cover": "https://picsum.photos/400/600?random=2",
+        "slide_thumbnail": "https://picsum.photos/400/600?random=25",
+        "caption_thumbnail": "",
+        "quote": "contoh quote",
+        "taicing": "",
+        "content": ""
+      }
+    ]
+  }
